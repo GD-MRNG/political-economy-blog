@@ -9,8 +9,6 @@ tags: [sg]
 ---
 
 
----
-
 ## THE GROUND PICTURE
 
 Life in Singapore is currently defined by two opposing forces. Externally, the conflict in the Middle East is driving up the cost of energy and food, creating a "perfect storm" of supply chain disruptions. Internally, the government is accelerating a massive shift toward Artificial Intelligence that is already changing how companies hire, operate, and pay their employees.
@@ -23,7 +21,11 @@ Inflation rose to 1.8% in March, driven largely by a surge in petrol and retail 
 
 Housing remains a significant pressure point for working professionals. The government has implemented new rules for **Executive Condominiums** to prioritize first-time buyers and curb property flipping. The **Minimum Occupation Period** for these units has doubled to 10 years, and the quota for first-timers has been raised to 90%. While private home prices rose slightly by 0.9% in the first quarter, public housing resale prices recorded their first decline in nearly seven years.
 
-Transport costs are also increasing. **Certificate of Entitlement (COE)** prices remain high, with Category A premiums recently reaching $124,790. To help platform workers manage rising fuel costs, the government is dishing out a $200 cash payout. Meanwhile, the **Housing & Development Board** is likely to exceed its target of 55,000 new flats by 2027 to address long-term supply concerns.
+Transport costs are also increasing. **Certificate of Entitlement (COE)** prices remain high, with Category A premiums recently reaching $124,790. 
+
+To help platform workers manage rising fuel costs, the government is dishing out a $200 cash payout. 
+
+Meanwhile, the **Housing & Development Board** is likely to exceed its target of 55,000 new flats by 2027 to address long-term supply concerns.
 
 The core dynamic is that rising external costs are meeting a cooling but still expensive property market.
 
