@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Technology Briefing | 03 May 2026
+title: 🤖 Technology Briefing | 03 May 2026
 author: "Glenn Lum"
 date: 2026-05-03 09:00:00 +0800
-categories: journal
-image: tech.jpg
+categories: weekly briefing
 tags: [tech]
 ---
 

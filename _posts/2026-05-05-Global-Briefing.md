@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Global Briefing | 05 May 2026
+title: 🌏 Global Briefing | 05 May 2026
 author: "Glenn Lum"
 date: 2026-05-05 08:00:00 +0800
-categories: journal
-image: global.jpg
+categories: weekly briefing
 tags: [global]
 ---
 

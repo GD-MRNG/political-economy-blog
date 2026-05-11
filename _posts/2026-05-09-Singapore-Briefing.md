@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Singapore Briefing | 09 May 2026
+title: 🦁 Singapore Briefing | 09 May 2026
 author: "Glenn Lum"
 date: 2026-05-09 08:00:00 +0800
-categories: journal
-image: sg.jpg
+categories: weekly briefing
 tags: [sg]
 ---
 
