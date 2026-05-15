@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 🌏 Global Briefing | 15 May 2026
+title: 🌏 Global Briefing | 11 May 2026
 author: "Glenn Lum"
-date: 2026-05-15 08:00:00 +0800
+date: 2026-05-11 08:00:00 +0800
 categories: weekly briefing
 tags: [global]
 ---
