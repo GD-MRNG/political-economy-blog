@@ -13,7 +13,12 @@ layout: default
       </div>
     {% endif %}
     <p>
-      {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Read more</a>
+      {% if post.content contains '<!-- preview-start -->' %}
+        {% assign preview_content = post.content | split: '<!-- preview-start -->' | last %}
+        {{ preview_content | strip_html | truncate: 350 }}
+      {% else %}
+        {{ post.content | strip_html | truncate: 350 }}
+      {% endif %} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Read more</a>
       <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
     </p>
   </div>
