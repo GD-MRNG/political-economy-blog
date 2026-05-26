@@ -38,7 +38,6 @@ tags: [global]
 
 # Executive Summary
 
-<div id="exec-summary">
 **The Global Operating Picture**
 
 The global structural environment is currently defined by a tactical, transactional stabilization of great-power relations, occurring even as the underlying geopolitical and financial architectures continue to fragment. The United States, facing a complex simultaneity of commitments across Eastern Europe, the Middle East, and East Asia, is actively pursuing a policy of managed de-escalation. This is manifested in advanced negotiations for a temporary memorandum of understanding with Iran to stabilize energy transit, alongside the institutionalization of a constructive strategic stability framework with China. This pivot is not a strategic realignment but a pragmatic pause driven by domestic economic pressures, including persistent inflation, bond market volatility, and upcoming electoral cycles. China is leveraging this temporary equilibrium to focus on internal economic consolidation, technological self-reliance, and the diversification of its trade relationships toward the Global South.
@@ -58,11 +57,6 @@ Finally, the weaponization of Western financial infrastructure has accelerated t
 * **Industrialization and resource-gating of the global artificial intelligence ecosystem:** The competitive advantage in artificial intelligence is shifting from foundational model sophistication to mass-market industrial integration and data throughput. This transition is exposing severe physical constraints, as the energy and water requirements of data centers clash with local resource security and national carbon budgets. Consequently, technological hegemony is increasingly determined by state-led energy planning and the domestic capacity to secure critical mineral supply chains rather than software innovation alone.
 
 * **Fragmentation of global financial plumbing and capital repatriation:** The global monetary order is experiencing structural bifurcation as non-dollar trade settlement and alternative transaction systems transition from rhetorical goals to functional infrastructure. This is accelerated by the Bank of Japan's monetary policy normalization, which is driving the repatriation of Japanese capital and eroding the structural demand for US sovereign debt. The resulting rise in global bond yields is creating a regressive fiscal squeeze on deficit-prone emerging markets, compounding their vulnerability to imported inflation.
-</div>
-
-<br>
-<button onclick="(function(){var t=document.getElementById('exec-summary').innerText;navigator.clipboard.writeText(t).then(function(){var b=document.querySelector('[onclick*=exec-summary]');var o=b.textContent;b.textContent='Copied!';setTimeout(function(){b.textContent=o;},1500);});})();" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; color: #333; font-weight: 500; font-size: 0.9em;">Copy</button>
-<br>
 
 
 
