@@ -2,7 +2,7 @@
 layout: post
 title: 🌏 Global Briefing | 07 June 2026
 author: "Glenn Lum"
-date: 2026-06-07 08:00:00 +0800
+date: 2026-06-07 10:00:00 +0800
 categories: weekly briefing
 tags: [global]
 ---
