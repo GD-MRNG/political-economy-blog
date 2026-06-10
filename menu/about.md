@@ -40,6 +40,8 @@ A few consistent principles guide the work:
 
 The aim is not prediction, but orientation — a clearer picture of the forces at work so that decisions, whether personal, professional, or political, can be made with better information.
 
+---
+
 ## On reading the world clearly without being broken by it
 
 You are here because you are paying attention.
