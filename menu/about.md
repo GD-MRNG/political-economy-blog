@@ -40,46 +40,4 @@ A few consistent principles guide the work:
 
 The aim is not prediction, but orientation — a clearer picture of the forces at work so that decisions, whether personal, professional, or political, can be made with better information.
 
----
-
-## On reading the world clearly without being broken by it
-
-You are here because you are paying attention.
-
-You read the briefings. You track the disruptions. You understand, broadly, that the world is undergoing one of its periodic restructurings and that the old maps are less reliable than they used to be.
-
-That kind of attention is valuable. But it comes with a cost the briefings themselves don't discuss: if you absorb the weight of the world's instability without a way of carrying it, the information eventually becomes either paralyzing or numbing. You freeze under the scale of it, or you develop a protective cynicism that keeps everything at arm's length. Neither of those is the same as understanding.
-
-There is a third way.
-
-### The Two Bad Options
-
-The world tends to offer two responses and dress them both up as wisdom.
-
-The first is compliance — let the urgency set your tempo, keep pace, adapt constantly, optimise. This feels productive. But the treadmill always calls for faster, and there is no point at which it declares you adequate and lets you rest.
-
-The second is withdrawal — detach, disengage, maintain a knowing distance from a world too compromised to deserve your full investment. This feels honest. But it is a sophisticated despair, and despair, however clear-eyed, is still a form of flight.
-
-### The Third Thing
-
-What most people are quietly reaching for is harder and more honest than either of those.
-
-It is the capacity to hold two things at once: that the world is genuinely troubled, *and* that it is genuinely worth living in. Not as a compromise, not by blurring one into the other — but by refusing to let either cancel out the other.
-
-Call it lucid affection. Loving the world without being credulous about it. The clarity and the warmth are not in conflict. Each makes the other more honest — the warmth keeps the clarity from curdling into despair, and the clarity keeps the warmth from tipping into delusion.
-
-This is not a new idea. Marcus Aurelius governed a declining empire through plagues and wars and wrote, in private journals never meant to be read, with genuine warmth about the simple fact of being alive. He did not wait for the external situation to improve before allowing himself to notice what was still good. Laozi described the same posture differently: stay soft, move with the grain of things, conserve yourself so that when real action is required you meet it from fullness rather than depletion.
-
-### A Note to the Reader
-
-The information on this site is here to help you understand what is happening. But understanding what is happening is not the same as carrying it at all times.
-
-Stay informed. Read the hard things. Keep clear eyes.
-
-And then return to your life — the people you care about, the things you find beautiful, the ordinary texture of your days — not in spite of knowing what you know, but with it. Those things are not less real than the briefings. In many ways they are more real. They are the actual substance of the life you are living, not merely the conditions surrounding it.
-
-The world is genuinely troubled. It is also genuinely worth living in.
-
-*You do not have to choose.*
-
 [← Back to Home]({{ "/" | relative_url }})
