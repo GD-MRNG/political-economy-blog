@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Read the World Without Being Ruled"
-permalink: /read-the
+permalink: /read-the-world
 ---
 
 The world is restructuring again — trade routes, alliances, technology, the institutions that used to hold things steady. The briefings can describe what's shifting and why. What they generally can't tell you is how to actually relate to what you now know. That's a separate question, and it deserves its own answer.
