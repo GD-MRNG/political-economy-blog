@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI Agents Reshape Global Tech Infrastructure
-
-The technology industry is transitioning from simple code generation to autonomous multi-agent systems that build, execute, and verify software independently. This shift creates invisible workloads for IT professionals who now spend time auditing machine-generated code and managing complex workflows rather than writing code themselves. Simultaneously, a global memory shortage is driving up hardware costs, while affordable Chinese AI models from companies like DeepSeek are disrupting Western pricing power. These forces are fundamentally changing what technical skills matter. Deep expertise in system reliability, platform engineering, and runtime verification is increasingly valuable, while basic coding is being automated away. IT professionals must pivot toward mastering infrastructure, security, and data pipelines that prevent autonomous agents from breaking production systems to remain competitive in this new landscape.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/06/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental transition from the era of "vibe coding"—where developers used simple prompts to generate isolated blocks of code—to **loop engineering**, where software is built, executed, and verified by autonomous multi-agent systems. While this shift promises to accelerate software delivery, it has introduced a massive, "invisible" workload for IT professionals. Instead of writing code from scratch, developers are increasingly acting as system auditors, spending their days validating machine-generated code, managing **context debt**, and debugging complex agentic workflows. 
 
@@ -109,7 +92,7 @@ A significant consolidation is underway in the developer toolchain, highlighted 
 
 For IT professionals in Singapore and Southeast Asia, this global shift will manifest as a surge in demand for **platform engineering** and **hybrid cloud management**. As regional data center hubs in Johor and Singapore expand to meet AI demands, local enterprises will require SREs who can optimize high-frequency deployment pipelines and manage the soaring cloud costs of agentic systems. IT professionals should closely monitor the adoption of regional, sovereign AI models and local-first data architectures, as Southeast Asian enterprises seek to bypass both US-China trade tensions and expensive Western cloud dependencies.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

@@ -9,52 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to create an accurate, timely summary based on recent developments.Based on current information, here is the summary:
-
-AI agents now handle real business decisions autonomously
-
-Artificial intelligence is shifting from generating text to executing business processes. Autonomous agents now reconcile financial transactions, manage customer service inquiries, and make operational decisions with minimal human oversight. However, most companies deploying these systems lack proper governance frameworks. Data centers face critical power shortages, driving investment in nuclear energy and alternative infrastructure. Organizations are cutting AI costs by routing simple tasks to cheaper open-source models instead of expensive proprietary systems. The real challenge ahead is not building AI, but managing the security risks, code quality issues, and operational complexity that autonomous agents create at scale.
-
----
-Learn more:
-1. [Enterprise AI Agents: Beyond Productivity](https://www.ibm.com/think/insights/enterprise-ai-agents)
-2. [The Rise of the Autonomous Enterprise](https://www.oracle.com/europe/applications/fusion-ai/rise-of-autonomous-enterprise/)
-3. [The Rise of the Autonomous Enterprise](https://www.oracle.com/uk/applications/fusion-ai/rise-of-autonomous-enterprise/)
-4. [The Rise of the Autonomous Enterprise](https://www.oracle.com/applications/fusion-ai/rise-of-autonomous-enterprise/)
-5. [thetransformationconstant.beehiiv.com](https://thetransformationconstant.beehiiv.com/p/most-ai-pilots-fail-at-a-gate-nobody-formally-ran)
-6. [Nuclear’s Next AI Test: Building at Scale](https://www.datacenterfrontier.com/energy/article/55402490/nuclears-next-ai-test-building-at-scale)
-7. [Advantages and Challenges of Nuclear-Powered Data Centers](https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers)
-8. [Powering AI's future: The case for nuclear energy in data centers](https://www.techtarget.com/it-infrastructure/feature/Powering-AIs-future-The-case-for-nuclear-energy-in-data-centers)
-9. [Future of nuclear power](https://www2.deloitte.com/us/en/insights/industry/power-and-utilities/nuclear-energy-powering-data-centers.html)
-10. [vktr.com](https://www.vktr.com/ai-technology/the-billion-dollar-data-center-boom-no-one-can-ignore/)
-11. [yenanjing/awesome-model-routing: A curated list of awesome LLM/AI model routing frameworks, gateways, inference engines, and tools. ⭐ 53+ repos · GitHub](https://github.com/yenanjing/awesome-model-routing)
-12. [A Cost Aware Rate Optimal Router](https://arxiv.org/html/2502.03261v2)
-13. [fullstackcrew-alpha/skill-cost-optimizer: OpenClaw Skill: Ultimate cost optimization toolkit — smart model routing, context compression, heartbeat tuning, save 60-80% on tokens · GitHub](https://github.com/fullstackcrew-alpha/skill-cost-optimizer)
-14. [CheatB/smart-router: 🧪 Open-source LLM cost optimizer. Your own Clawzempic, but local and private. · GitHub](https://github.com/CheatB/smart-router)
-15. [aiconference.com](https://aiconference.com/)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/15/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural shift: the industry is transitioning from the era of **generative chat** to the era of **agentic execution**. Over the past year, the primary focus of enterprise technology was evaluating what large language models could say. Today, the focus has shifted to what autonomous software agents can do. This transition is fundamentally altering the economics of software development, re-engineering cloud data paths, and introducing entirely new categories of operational and security risk.
 
@@ -135,6 +98,8 @@ For IT professionals in **Singapore and Southeast Asia**, these global shifts wi
 Furthermore, as Chinese technology giants aggressively expand their footprint in the region through initiatives like **Alipay+** and localized AI models, local professionals must become adept at bridging the gap between Western cloud platforms and Chinese hardware and software standards. 
 
 The demand for pure code generation is declining, but the demand for professionals who can architect secure, multi-cloud, and agent-compliant infrastructure is set to grow rapidly.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

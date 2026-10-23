@@ -8,10 +8,12 @@ tags: [sg]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 The most immediate disruption to daily life in Singapore is the return of severe transboundary haze. Air quality has fluctuated into unhealthy ranges, prompting the **Ministry of Health (MOH)** to release N95 masks from the national stockpile to major supermarkets like **FairPrice**, **Cold Storage**, and **Sheng Siong**. The **Ministry of Manpower (MOM)** has issued strict guidelines advising employers to reduce outdoor work as PM2.5 levels rise, and to stop outdoor work for vulnerable employees entirely if hourly PM2.5 concentrations exceed 250. 
 
@@ -73,6 +75,8 @@ Singapore is positioning itself as a neutral, highly regulated harbor amidst the
 * The impact of the upcoming Johor-Singapore Special Economic Zone agreement on local manufacturing and logistics jobs.
 * How the new licensing requirements for data centers will affect the expansion plans of global cloud providers operating in Singapore.
 * Whether the O-Level and national examinations will face scheduling disruptions if the 24-hour Pollutant Standards Index enters the hazardous range.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

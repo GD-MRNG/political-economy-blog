@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -60,7 +55,7 @@ In this highly polarized environment, middle powers and regional blocs are rejec
 
 * **The institutionalization of alternative, development-focused global governance.** Emerging powers are bypassing Western-dominated multilateral frameworks in favor of flexible, consensus-based clusters like BRICS and the Shanghai Cooperation Organisation. This shift prioritizes material outcomes, infrastructure-led connectivity, and absolute state sovereignty over Western-centric political conditionality, eroding the normative power of the liberal international order in developing markets.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

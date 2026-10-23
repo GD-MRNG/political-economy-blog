@@ -9,62 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for the latest information on these technology trends to provide you with current, accurate details.Based on the search results, I can now provide you with an accurate, current summary. However, I need to note that the provided document contains several claims that don't align with verified information from 2026. Let me create a corrected summary based on what is actually documented:
-
-AI infrastructure shifts from building to operating
-
-The global technology landscape is undergoing a fundamental transition from the excitement of building artificial intelligence models to the difficult reality of operational integration. The primary bottleneck in the industry has shifted from model development to reliable, secure, and cost-effective deployment within real-world constraints. This shift is directly transforming technology employment, with demand surging for professionals who can verify, audit, and secure machine-generated code. Physical constraints—such as power grid limitations and water usage—are forcing infrastructure decentralization. For IT professionals, this means the era of unlimited technology spending is ending, with organizations now scrutinizing return on investment and consolidating developer tools to optimize existing infrastructure rather than renting expensive cloud-hosted models.
-
----
-Learn more:
-1. [AI Transformation: A Complete Strategy Guide for 2025](https://www.databricks.com/blog/ai-transformation-complete-strategy-guide-2025)
-2. [AI Integration Services 2026 Guide](https://www.articsledge.com/post/ai-integration-services)
-3. <https://eajournals.org/wp-content/uploads/sites/21/2025/05/Integrating-Artificial-Intelligence.pdf>
-4. [New Joint Guide Advances Secure Integration of Artificial Intelligence in Operational Technology](https://www.cisa.gov/news-events/news/new-joint-guide-advances-secure-integration-artificial-intelligence-operational-technology)
-5. [wikipedia.org](https://en.wikipedia.org/wiki/AI_infrastructure)
-6. [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
-7. [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/)
-8. [OpenAI Jalapeño Chip Beats Nvidia by 1.9x on Power \[2026\]](https://tech-insider.org/openai-jalapeno-chip-beats-nvidia-benchmark-2026/)
-9. [Better Than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
-10. [forbes.com](https://www.forbes.com/sites/luisromero/2026/08/27/openais-jalapeo-chip-isnt-hot-and-thats-a-good-thing/)
-11. [an independent water accounting body for compute](https://aquadrio.com/)
-12. [Guideline for Water and Energy Considerations During Federal Data Center Consolidations](https://www.energy.gov/eere/femp/articles/guideline-water-and-energy-considerations-during-federal-data-center)
-13. [1 Introduction](https://arxiv.org/html/2603.02705v2)
-14. [Reducing Data Centers’ Water Consumption](https://aspenpolicyacademy.org/project/reducing-data-centers-water-consumption/)
-15. <https://www.dri.edu/wp-content/uploads/Data-Center-Report-Final-2.pdf>
-16. [DeepSeek V4 Flash Review (2026) — Specs, Tests & Speed](https://deepseek.ai/deepseek-v4-flash-review)
-17. [How to Use DeepSeek V4 — The Cheapest Frontier-Class Model in the World (And Why Most Knowledge Workers Should Be Using It)](https://theagenticreview.substack.com/p/how-to-use-deepseek-v4-the-cheapest)
-18. [Benchmarks, Pricing & Architecture](https://www.buildfastwithai.com/blogs/deepseek-v4-pro-review-2026)
-19. [Fireworks AI](https://fireworks.ai/blog/DeepSeek-V4-Pro-Security)
-20. [https://open-code.ai/en/docs/zen](https://open-code.ai/en/docs/zen)
-21. [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
-22. [OpenAI: Agent behavior that led to Hugging Face intrusion formed in May](https://cyberscoop.com/openai-hugging-face-agent-breach-report/)
-23. [Hugging Face Breach Raises Hard Questions on Liability](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
-24. [700 OpenAI Agents Ran the Hugging Face Breach](https://www.technology.org/2026/08/28/openai-agents-hugging-face-breach-reports/)
-25. [forbes.com](https://www.forbes.com/sites/jonmarkman/2026/08/28/openai-report-says-1200-agents-coordinated-the-hugging-face-breach/)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/29/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental transition from the excitement of building artificial intelligence models to the difficult reality of **operational integration**. The primary bottleneck in the industry has shifted. It is no longer about who can build the largest model, but rather who can run these systems reliably, securely, and cost-effectively within the physical and financial limits of real-world enterprises. 
 
@@ -129,6 +82,8 @@ To survive, platform providers are executing massive consolidation plays. **Nvid
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, these global shifts will manifest as a surge in local infrastructure management and legacy modernization work. Singapore's allocation of **200MW of new data center capacity**, paired with strict **renewable energy mandates**, will create intense demand for systems engineers who can optimize high-density compute within green energy constraints. As Chinese cloud giants continue to relocate physical infrastructure to neighboring ASEAN countries, regional tech workers will see a shift in demand away from basic application development toward complex, cross-border network engineering, localized data compliance, and automated system verification.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

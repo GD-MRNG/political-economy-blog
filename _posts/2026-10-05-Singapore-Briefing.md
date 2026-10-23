@@ -8,10 +8,12 @@ tags: [sg]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singaporeans are feeling a squeeze in their daily lives as the cost of basic necessities rises alongside environmental and economic pressures. Air quality has periodically dipped into the unhealthy range due to regional haze, forcing residents to rely on air purifiers and monitor daily pollution indexes. At the same time, daily commuting is becoming more expensive, with public transport fares set to rise and petrol prices climbing.
 
@@ -83,6 +85,8 @@ The global race for AI supremacy is also landing locally. As US tech giants and 
 * The impact of the new data center licensing regime on Singapore's ability to attract global AI infrastructure.
 * How the upcoming public transport fare hike in December affects consumer spending in the retail and food sectors.
 * Whether the rising trend of AI-related data breaches prompts the government to mandate stricter cybersecurity audits for small and medium enterprises.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

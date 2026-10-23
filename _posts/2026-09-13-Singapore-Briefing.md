@@ -9,50 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about Singapore's economic situation to provide you with an accurate, up-to-date summary.Based on current information, here is a 100-word summary:
-
-Singapore navigates contrasting economic forces as inflation moderates to 0.9% but living costs remain high due to land scarcity and import dependence. While median wages grew 46% since 2015, outpacing inflation, housing and vehicle ownership remain expensive. The tech sector drives job growth with strong demand for AI and cybersecurity roles, though mid-tier businesses face pressure. The government announced expanded childcare leave and $70,000 in child support per citizen child to encourage family formation. For locals using public transport and hawker food, costs are manageable; for expats, Singapore ranks fourth globally for expense. Regional integration with Johor accelerates through infrastructure projects.
-
----
-Learn more:
-1. [12 Cost of Living in Singapore Statistics (2026)](https://smartwealth.sg/cost-of-living-in-singapore-statistics/)
-2. [Why Is Singapore So Expensive? 9 Real Reasons (2026)](https://smartwealth.sg/high-cost-of-living-singapore/)
-3. [Singapore fourth most expensive city globally for expats, 28th for locals, study finds](https://www.channelnewsasia.com/singapore/singapore-cost-living-expats-housing-prices-5326526)
-4. [Cost of Living](https://www.expatfocus.com/singapore/guide/singapore-cost-of-living)
-5. [wikipedia.org](https://en.wikipedia.org/wiki/Economy_of_Singapore)
-6. [Why you should join the tech industry in Southeast Asia](https://www.edb.gov.sg/en/news-and-insights/why-you-should-join-the-tech-industry-in-southeast-asia)
-7. [Most In-Demand Careers in Singapore (2026)](https://www.smartsinga.com/most-wanted-career-singapore/)
-8. [Most In-Demand Jobs in Singapore 2026](https://studyonline.unsw.edu.au/sg/blog/most-in-demands-jobs-singapore)
-9. [Singapore IT Labour Market in Focus](http://teksystems.com/en-sg/insights/article/singapore-it-labour-market-focus)
-10. [https://www.morganmckinley.com/sg/salary-guide/data/data-centre/singapore](https://www.morganmckinley.com/sg/salary-guide/data/data-centre/singapore)
-11. [Strengthening Our Families](https://www.gov.sg/ndr2026/families/?)
-12. [NDR 2026 Supporting Families](https://www.madeforfamilies.gov.sg/ndr-2026-supporting-families)
-13. [Recognition and Support for Caregivers](https://www.msf.gov.sg/what-we-do/swd/key-areas-of-support/recognition-support-for-caregivers)
-14. [Marriage & Parenthood Measures at National Day Rally 2026](https://www.population.gov.sg/marriage-parenthood-measures-at-national-day-rally-2026/)
-15. [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg/ndr-2026-supporting-families)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/13/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Living and working in Singapore right now means navigating a sharp contrast between a booming financial sector and tightening daily expenses. The local stock market is experiencing its best performance in years, and major local banks like **OCBC** and **DBS** are being recognized as top global performers. Yet, on the ground, residents are feeling the squeeze of high fuel prices, record-breaking car ownership costs, and rising food prices. 
 
@@ -124,6 +89,8 @@ Geopolitical conflicts in the Middle East are also hitting home through energy c
 - Whether the Bank of Japan's interest rate hikes trigger a wider unwinding of the yen carry trade and disrupt local stock market liquidity.
 - The implementation details of the enhanced childcare leave benefits and their impact on workplace staffing in early 2027.
 - Whether global AI chip supply constraints continue to drive up the cost of local enterprise IT hardware.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

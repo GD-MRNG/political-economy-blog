@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -60,7 +55,7 @@ The global technology landscape is undergoing a materialist correction, as the e
 
 *   **Decoupling of macroeconomic growth from household material stability.** Across advanced economies, particularly in North America and the UK, rising GDP and corporate profits are increasingly decoupled from stagnant real wages and escalating housing costs. This structural divergence is eroding the perceived legitimacy of liberal-democratic institutions and making the electorate more susceptible to "mass formation" psychological patterns and radical political shifts that prioritize immediate material relief over long-term institutional stability.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

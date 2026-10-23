@@ -8,10 +8,12 @@ tags: [sg]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singapore is currently navigating a period of environmental and economic tightening. The return of severe transboundary **haze** has degraded air quality, with the 24-hour Pollutant Standards Index (PSI) reaching unhealthy levels across the island. The government has prepared emergency measures, including mask distribution plans and potential school closures, which are directly impacting daily routines and outdoor activities. 
 
@@ -73,6 +75,8 @@ Additionally, geopolitical tensions and trade disputes between the US, China, an
 * The impact of the Johor-Singapore RTS Link on local food, beverage, and retail businesses once cross-border travel becomes seamless.
 * How the new licensing regime for data centres will affect Singapore's capacity to attract global AI infrastructure investments.
 * Whether the Ministry of Education will trigger school closures and exam postponements if the haze conditions deteriorate past the 300 PSI threshold.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

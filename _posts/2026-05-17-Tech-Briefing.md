@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [tech]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The most significant structural shift this week is the transition from **Generative AI** (systems that talk) to **Agentic AI** (systems that act). While the previous two years focused on large language models as interfaces, the industry is now standardizing the protocols—most notably the **Model Context Protocol (MCP)**—that allow these models to use tools, manage databases, and execute code without human intervention. This shift moves AI from a productivity aid to a primary operator of digital infrastructure, creating a new layer of software orchestration that sits above traditional operating systems and cloud platforms.
 
@@ -60,7 +62,7 @@ Capital is concentrating into a narrow band of **AI and semiconductor giants**, 
 
 For the technology professional in **Singapore and Southeast Asia**, the most immediate shift is the relocation of regional headquarters and the "quiet" restructuring of tech workforces. While Singapore is investing heavily in training 40,000 workers in **agentic systems**, the actual job creation is moving toward **Vietnam and Malaysia**, where lower costs and growing R&D operations in chip design are attracting firms like H&M and Qualcomm. The region is becoming a primary testing ground for **AI-first banking** and robotaxi fleets, meaning demand will shift away from traditional application development toward the integration of AI with physical infrastructure and local-language data sets.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

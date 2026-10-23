@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -58,7 +53,7 @@ Underlying these geopolitical and technological frictions is a systemic crisis o
 
 * **The structural breakdown of the domestic social contract:** The prioritization of state-led capital allocation toward defense rearmament and corporate subsidies at the expense of social infrastructure has triggered a systemic legitimacy crisis for representative governance. This misalignment between technocratic policy and household-level material survival is driving a global transition toward sustained civil unrest, labor militancy, and the growth of parallel, community-led mutual aid networks.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Financial Assets Detached From Real Production
-
-Stock markets and bond prices have soared while actual factories and productive capacity haven't kept pace, creating dangerous imbalances. In America, government debt keeps rising while the Federal Reserve struggles to control inflation through traditional interest rate tools. Meanwhile, massive investments in artificial intelligence compete with government borrowing for available money. In the Middle East, cheap drones and missiles are neutralizing expensive military hardware, forcing countries to seek land-based trade routes instead of relying on naval power. China is offering affordable AI technology to developing nations, establishing its own technical standards globally. Climate disasters like extreme droughts are damaging power plants and trade routes, while migration pressures are fracturing European unity. Europe is now spending heavily on military equipment instead of social programs, reshaping its entire economy around defense.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/04/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Concurrently, climate-induced environmental volatility is transitioning from an 
 
 *   **The institutionalization of migration flows as a formal instrument of statecraft.** Frontline transit states are increasingly calibrating border enforcement to exert diplomatic pressure and extract concessions from wealthier neighboring blocs, stabilizing this dynamic as a permanent feature of regional security. This coercion exploits the structural friction between domestic judicial constraints on rapid deportation and supranational demands for border exclusion, driving the fragmentation of collective asylum policies.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

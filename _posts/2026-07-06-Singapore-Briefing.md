@@ -9,32 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore balances AI-driven growth with cost pressures
-
-Singapore faces a paradox of technological advancement and household financial strain. While artificial intelligence manufacturing reaches eight-year highs, electricity and healthcare costs hit record levels, squeezing middle-class budgets. The job market shows sharp divisions: hardware and infrastructure roles boom while tech services and banking face consolidation. The government is aggressively expanding AI training programs and regulatory frameworks for digital finance and cybersecurity. Regionally, Singapore deepens ties with Indonesia and Malaysia through trade agreements and special economic zones, though Johor emerges as a growing competitor for talent and investment. Global geopolitical tensions and US technology export controls create new compliance risks for local firms, while supply chain vulnerabilities remain exposed.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/06/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singapore is navigating a dual reality of high-tech growth and intense local cost pressures. While the artificial intelligence boom has pushed manufacturing activity to an eight-year high, everyday living costs remain elevated. 
 
@@ -108,7 +91,7 @@ The global race for advanced technology has also brought illicit activities to S
 *   Whether the record-high electricity tariffs will trigger a price war among retail electricity providers.
 *   The implementation of the Ministry of Manpower's stricter scaffold safety rules in January 2027.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

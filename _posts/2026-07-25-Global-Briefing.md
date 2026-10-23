@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Global Power Structures Undergoing Fundamental Realignment
-
-The world is experiencing a major shift in how power operates. Technology is splitting into competing American and Chinese systems, with China focusing on practical AI integrated with manufacturing while the US pursues expensive advanced software. Maritime security is weakening as low-cost drones and missiles challenge traditional naval power, forcing countries to find alternative shipping routes and negotiate locally rather than rely on Western protection. International trade rules are breaking down as countries impose tariffs unilaterally instead of following established agreements, forcing businesses to reorganize supply chains for political safety rather than efficiency. Meanwhile, young people across developing nations are protesting failed job markets and corrupt exam systems, challenging government legitimacy and creating political instability that complicates long-term planning and governance.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/25/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Underneath these macroeconomic and geopolitical shifts lies a deepening crisis o
 
 * **The rupture of meritocratic social contracts:** Administrative failures in state-managed credentialing systems, exemplified by systemic examination leaks and chronic youth unemployment, are triggering decentralized, non-ideological protest movements. This dynamic is entering an escalatory phase as digitally mobilized youth cohorts successfully bypass traditional political mediation, forcing high-level executive concessions and exposing the structural fragility of centralized governance models.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

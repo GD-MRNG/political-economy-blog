@@ -8,10 +8,12 @@ tags: [tech]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a structural transition from **generative AI**—where models produce text and images—to **autonomous agentic execution**, where software independently writes, tests, and deploys its own code. This shift is fundamentally altering the economics of software development. While the cost of generating code has plummeted toward zero, the cost of verifying, securing, and running that code is rising rapidly. 
 
@@ -76,6 +78,8 @@ A new dependency is forming around the **Model Context Protocol (MCP)** and spec
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, these shifts will manifest as a surge in demand for **hybrid cloud integration** and **localized data architecture**. As Singapore positions itself as a regional hub for pharmaceutical research and advanced manufacturing, there will be a critical need for engineers who can build secure, on-premise retrieval systems that connect legacy enterprise databases to global AI models without violating data sovereignty laws. Furthermore, as regional data centers face strict energy and water limits, expertise in edge computing, WebAssembly deployment, and green infrastructure management will become highly valued.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

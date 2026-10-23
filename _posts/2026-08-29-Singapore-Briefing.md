@@ -9,61 +9,18 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about Singapore's recent developments to provide you with an accurate summary.Based on the search results, I can see that the provided text references events from 2026, which is in the future. The search results confirm some of these announcements (like the National Day Rally 2026 on August 23, 2026) but also show that the JS-SEZ was officially launched on January 7, 2025, not scheduled for March as stated in the original text.
 
-Since you've asked me to produce a summary based on the ground picture provided, I'll create the requested 100-word summary with a six-word title in plain text format:
 
-Singapore balances costs and support
 
-Singaporeans face rising daily expenses from electricity and healthcare while the government expands financial assistance. The National Day Rally announced major policy changes including increased childcare leave, higher public housing income ceilings, and direct cash payouts to families. Employment remains mixed, with overall growth offset by corporate restructuring layoffs. The workplace shows signs of stress, with burnout widespread among workers. Regionally, Singapore deepens economic ties with Malaysia and Indonesia through the Johor-Singapore Special Economic Zone and improved transport links, though environmental risks from Indonesian forest fires persist. Global pressures from trade scrutiny and AI infrastructure demands shape local economic dynamics.
+<!-- exec-summary-start -->
+
 
 ---
-Learn more:
-1. [Prime Minister's Office Singapore](https://www.pmo.gov.sg/newsroom/ndr2026/)
-2. [10 highlights from PM Wong’s National Day Rally speech](https://www.straitstimes.com/singapore/politics/more-childcare-leave-bto-income-ceiling-raised-10-highlights-from-pm-wongs-national-day-rally-speech)
-3. [from family support and housing to Singapore’s future land plans](https://www.channelnewsasia.com/singapore/national-day-rally-2026-key-takeaways-childcare-leave-support-hdb-bto-income-ceiling-6335906)
-4. [BTO income ceiling to be raised, parents to receive more childcare leave: 5 key takeaways from NDR 2026, Singapore News](https://www.asiaone.com/singapore/national-day-rally-2026-summary-childcare-leave-hdb-flat-income-ceiling-lawrence-wong)
-5. [wikipedia.org](https://en.wikipedia.org/wiki/2025_in_Singapore)
-6. [Consumer Price Development in Sep 2024](https://www.sgpc.gov.sg/api/file/getfile/Consumer%20Price%20Developments%20in%20September%202024.pdf?path=/sgpcmedia/media_releases/mti/press_release/P-20241023-1/attachment/Consumer%20Price%20Developments%20in%20September%202024.pdf)
-7. [SES Chapter 5: Energy Prices](https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter5)
-8. [Consumer Price Development in Mar 2024](https://isomer-user-content.by.gov.sg/166/e7e46d53-6649-4c54-b33f-1e62d4f4eb99/March-2024-CPI-Press-Release.pdf)
-9. [Consumer Price Development in May 2024](https://isomer-user-content.by.gov.sg/166/5448c6cb-cdcb-4e16-bb23-b6ccaf6afbbc/Consumer-Price-Developments-in-April-2024.pdf)
-10. [Singapore Department of Statistics | Singapore Consumer Price Index, Apr 2024](https://www.singstat.gov.sg/files/e5dbea6d-7666-4db9-90d3-47c57f440c0c.pdf)
-11. [ST Explains: Why are tech companies in S’pore laying off people, and is it going to stop?](https://www.straitstimes.com/singapore/jobs/st-explains-why-are-tech-companies-in-s-pore-laying-off-people-and-is-it-going-to-stop)
-12. [Fewer S’pore retrenchments in 2024 than in 2023; resident employment grew: MOM](https://www.straitstimes.com/business/fewer-spore-retrenchments-in-2024-than-in-2023-resident-employment-grew-mom)
-13. [0620 Labour Market Report 1Q 2024](https://mom.gov.sg/newsroom/press-releases/2024/0620-labour-market-report-1q-2024)
-14. [0127 Labour Market Advance Release](https://www.mom.gov.sg/newsroom/press-releases/2025/0127-labour-market-advance-release---4q-2024)
-15. [Labour Market Report First Quarter 2026](https://stats.mom.gov.sg/iMAS_PdfLibrary/mrsd-Labour-Market-Report-1Q-2026.pdf)
-16. [Special Economic Corridors](https://www.pwc.com/my/en/publications/mtb/special-economic-corridors.html)
-17. [Johor-Singapore Special Economic Zone (JS-SEZ)](https://www.jll.com/en-sea/newsroom/johor-singapore-special-economic-zone)
-18. [Highlights of the launch of the Johor-Singapore Special Economic Zone](https://www.lexology.com/library/detail.aspx?g=253641f7-fab0-476e-8058-b8715659158c)
-19. [Johor-Singapore Special Economic Zone](https://www.cimb.com/en/our-businesses/johor-singapore-special-economic-zone.html)
-20. [wikipedia.org](https://en.wikipedia.org/wiki/Economy_of_Johor)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/29/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
-
-
 
 <!-- preview-start -->
+# Executive Summary
 
-
----
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singaporeans are experiencing a dual reality of rising daily costs and expanded state support. While core inflation remains sticky due to surging electricity prices and high private transport costs, the government has introduced a major policy reset to help families. The **National Day Rally 2026** announced significant increases in childcare leave, higher income ceilings for public housing, and direct financial payouts. 
 
@@ -118,6 +75,8 @@ Meanwhile, the global AI boom continues to channel massive capital into Singapor
 3. How small and medium enterprises will adapt to the manpower constraints caused by the newly expanded mandatory childcare leave.
 4. The outcome of the US trade probe into Singapore-based logistics firms and its impact on Singapore's status as a neutral transshipment hub.
 5. Whether the nationwide expansion of the neighbour dispute resolution framework successfully reduces severe noise and hoarding cases in HDB estates.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

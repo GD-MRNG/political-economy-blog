@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -55,7 +50,7 @@ Meanwhile, the advanced technology sector is approaching a structural inflection
 * **Realignment of Middle Eastern security architectures away from the US security umbrella:** The proliferation of low-cost, high-precision asymmetric capabilities has rendered traditional, fixed-base power projection vulnerable, forcing regional states to seek localized security arrangements. This is visible in the activation of the Mecca Joint Defense Agreement between Saudi Arabia, Turkey, and Pakistan, signaling a shift toward autonomous, regional defense coalitions independent of Western military presence.
 * **Transatlantic energy friction driven by US domestic political imperatives:** The EU’s structural dependency on US refined products has allowed US electoral cycles to directly dictate European energy security. This dynamic is evolving as Washington pressures European allies to deplete their strategic diesel reserves to manage US domestic inflation, prioritizing short-term political risk management over the long-term industrial and agricultural stability of its partners.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

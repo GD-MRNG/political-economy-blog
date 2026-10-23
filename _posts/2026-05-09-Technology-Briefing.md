@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [tech]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is currently undergoing a fundamental transition from **generative AI as a tool** to **agentic AI as an architectural layer**. This shift, increasingly described as **agentic engineering**, moves the industry beyond simple chatbots toward autonomous systems capable of executing complex, multi-step workflows. While this promises significant productivity gains, it is creating a new set of systemic risks, including "shadow agents" that operate without oversight and a widening gap between the speed of AI-driven bug discovery and the human capacity to patch them.
 
@@ -64,7 +66,7 @@ Pricing power is shifting away from SaaS vendors toward **infrastructure and "ag
 
 For IT professionals in **Singapore and Southeast Asia**, the most immediate shift is the region’s emergence as a **neutral data hub** and "safe harbour" for global investment amidst the US-China tech war. The IMDA’s commitment to training 40,000 tech professionals is a direct response to the need for a workforce that can manage this new "Agentic Stack" and navigate the complexities of technological sovereignty. Demand will likely surge for roles that bridge the gap between **AI orchestration, local regulatory compliance, and sustainable infrastructure management.**
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

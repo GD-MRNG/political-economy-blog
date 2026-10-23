@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI Costs Collapse, Infrastructure Strains
-
-The cost of advanced artificial intelligence has plummeted as Chinese companies released powerful, affordable models, forcing US tech firms to slash prices by up to eighty percent. This has made raw computing power cheap and abundant. However, the physical infrastructure supporting AI is hitting hard limits. Memory chip shortages are disrupting consumer electronics production, while geopolitical tensions are splitting technology ecosystems into competing US and China-aligned blocs. For IT professionals, the challenge has shifted from accessing expensive AI to managing its integration safely. Companies now prioritize runtime verification, security, and infrastructure engineering over simple code generation. The real bottleneck is no longer model cost but proving that AI systems work reliably in production environments.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/03/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a structural realignment as the cost of frontier-class artificial intelligence collapses. The rapid release of highly capable, low-cost Chinese **open-weight models**—such as Moonshot’s **Kimi K3**, DeepSeek’s **V4-Flash**, and Alibaba’s **Qwen 3.8-Max**—has shattered the pricing power of proprietary US models. To remain competitive, US frontier labs have slashed API prices, with OpenAI cutting costs for its flagship models by up to 80%. This shift has effectively commoditized raw intelligence, moving the primary bottleneck of AI adoption from model access costs to the complex engineering challenges of integration, validation, and security.
 
@@ -117,6 +100,8 @@ In the startup ecosystem, local investors in emerging markets are increasingly o
 For IT professionals in Singapore and Southeast Asia, these global shifts will manifest as a localized infrastructure boom coupled with intense pressure on legacy software systems. The rapid expansion of data centers in Malaysia and Singapore will sustain high demand for **platform engineering** and **DevOps** professionals who can manage hybrid, resource-constrained environments. 
 
 However, as automated coding tools commoditize basic software development, local demand will pivot sharply toward engineers skilled in **AI security, runtime validation, and Java modernization** to protect and upgrade the region's critical enterprise and financial infrastructure.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

@@ -9,52 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about Singapore's economic situation, employment trends, and government policies to create an accurate summary.Based on the search results and the context provided, here is a 100-word summary with a six-word title:
-
-Singapore navigates high costs and restructuring
-
-Singapore residents face persistent cost pressures across housing, transport, and daily essentials despite government relief measures like CDC vouchers and price freezes. The economy is projected to grow four to five percent, yet employment remains volatile with corporate restructuring driving retrenchments. The RTS Link opening in January 2027 offers housing relief through cross-border living in Johor Bahru at seventy percent lower costs. Government priorities include digital safety for children, family support, and green energy infrastructure. Regional integration with Malaysia accelerates while global tariff threats and AI-driven price hikes add external pressure to household and business finances.
-
----
-Learn more:
-1. [Nucamp](https://www.nucamp.co/blog/cost-of-living-vs-tech-salaries-in-singapore-in-2026-can-you-actually-afford-it)
-2. [Pay, hybrid work and hiring planning for SMEs](https://www.paulhypepage.com/guides/singapore-private-home-demand-housing-costs-wages-hybrid-work-sme-planning-2027/)
-3. [Is Singapore Too Expensive? Uncovering the Real Cost of Living in 2026](https://www.stashaway.sg/r/cost-of-living-singapore)
-4. [Singapore Department of Statistics | Singapore Consumer Price Index, May 2026](https://www.singstat.gov.sg/files/190ca70b-2d16-41a5-9298-fee401cb0cfe.pdf)
-5. [wikipedia.org](https://en.wikipedia.org/wiki/Economy_of_Singapore)
-6. [Article](https://www.msf.gov.sg/media-room/article/screen-smart-from-the-start--nationwide-movement-launched-at-the-national-family-festival-2026-to-support-families-in-the-digital-age)
-7. [Singapore's Next Steps in Building Child-Safe Digital Environments (Factsheet)](https://www.mddi.gov.sg/newsroom/singapores-next-steps-in-building-child-safe-digital-environments/)
-8. [V6\_MDDI\_Infographics\_Online Safety\_19Feb26 copy](https://www.imda.gov.sg/-/media/imda/files/news-and-events/media-room/media-releases/2026/cos/strengthening-online-safety-for-all-singaporeans.pdf)
-9. [What is the Online Safety (Relief and Accountability) Bill (OSRA)?](https://www.gov.sg/explainers/parliament-nov2025/)
-10. [Supporting Parents and Children for a Safer World](https://www.mddi.gov.sg/newsroom/supporting-parents-and-children-for-a-safer-world/)
-11. [Johor Bahru–Singapore Rapid Transit System](https://en.wikipedia.org/wiki/Johor_Bahru%E2%80%93Singapore_Rapid_Transit_System)
-12. <https://www.mpa.gov.sg/api/media/c57484e1-51d2-4b00-8519-7de160147b31/PMC-07-of-2026-RTS-Link-Bridge.pdf>
-13. [Johor Bahru – Singapore Rapid Transit System Link](https://www.lta.gov.sg/content/ltagov/en/upcoming_projects/rail_expansion/JB-Singapore_RTS_link.html)
-14. <https://www.mpa.gov.sg/api/media/64fb835b-80ba-4c26-933b-1d72813423b2/PMC-07-of-2026-RTS-Link-Bridge.pdf>
-15. [wikipedia.org](https://en.wikipedia.org/wiki/Johor_Bahru%E2%80%93Singapore_Rapid_Transit_System)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/23/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Living and working in Singapore right now means navigating a high-cost environment where the government is actively trying to buffer citizens from global pressures while restructuring the economy for an AI-driven future. The material reality is defined by a heavy cost stack, particularly in housing and transport, alongside rising corporate restructuring that is pushing retrenchments to their highest quarterly levels since 2020. While the economy is projected to grow by 4.5% to 5.5% in 2026, the average professional feels a disconnect between these macroeconomic numbers and their daily financial security.
 
@@ -116,6 +79,8 @@ The global AI boom is also reshaping local corporate costs. **Nvidia** has notif
 * Monitor the implementation of the new AI-powered traffic detection systems on bus lanes to see if they lead to a reduction in road congestion and transit delays.
 * Watch the progress of the Johor-Singapore Special Economic Zone treaty signing, which is expected to be finalized by March.
 * Observe whether the newly introduced tax breaks for fund managers in 2027 successfully prevent capital outflows to Hong Kong's competing asset management hub.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

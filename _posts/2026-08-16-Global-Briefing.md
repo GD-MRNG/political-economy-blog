@@ -10,43 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about these global structural shifts to provide you with an accurate, contemporary summary.World Powers Reorganize Into Regional Blocs
-
-The global order is fragmenting into independent regional spheres as countries reduce reliance on American financial and security systems. While the US dollar remains the dominant reserve currency at fifty-nine percent of global holdings, central banks increasingly diversify into alternative currencies like the Chinese renminbi and Australian dollar. Simultaneously, middle powers are building autonomous defense arrangements, exemplified by the 2026 Mecca Agreement between Saudi Arabia, Turkey, and Pakistan, which treats attacks on any member as attacks on all three. This shift reflects practical concerns: countries want insurance against sanctions and military abandonment. Meanwhile, artificial intelligence infrastructure demands are reshaping competition for physical resources. AI data centers could require sixty-eight gigawatts globally by 2027, straining power grids and forcing tech companies to compete fiercely for energy access, rare earth minerals, and semiconductor manufacturing capacity. These structural changes mean ordinary people face higher costs for technology, less predictable currency values, and shifting job markets as automation accelerates.
-
----
-Learn more:
-1. [US dollar dominance amid global geo-economic fragmentation](https://www.weforum.org/stories/2024/07/king-dollar-dethroned-usd-dominance-geoeconomic-fragmentation/)
-2. [Prédominance du dollar dans le système de réserves internationales](https://www.imf.org/fr/Blogs/Articles/2024/06/11/dollar-dominance-in-the-international-reserve-system-an-update)
-3. [Dollar Dominance in the International Reserve System](https://www.imf.org/en/blogs/articles/2024/06/11/dollar-dominance-in-the-international-reserve-system-an-update)
-4. <https://www.newyorkfed.org/medialibrary/media/research/economists/goldberg/Driversdollarshare02262024>
-5. [The changing role of the US dollar](https://www.brookings.edu/articles/the-changing-role-of-the-us-dollar/)
-6. [What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?](https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities)
-7. [Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?](https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal)
-8. [A preliminary assessment – Middle East Monitor](https://www.middleeastmonitor.com/20260815-the-saudi-turkish-pakistani-security-agreement-a-preliminary-assessment/)
-9. [Mecca Joint Defence Agreement](https://en.wikipedia.org/wiki/Mecca_Joint_Defence_Agreement)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93Turkey_relations)
-11. [AI's Power Requirements Under Exponential Growth: Extrapolating AI Data Center Power Demand and Assessing Its Potential Impact on U.S. Competitiveness](https://www.rand.org/pubs/research_reports/RRA3572-1.html)
-12. [Market features in AI infrastructure: Competition in artificial intelligence infrastructure](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html)
-13. [Semiconductor Manufacturing and Energy Infrastructure in AI Competition](https://www.traxtech.com/ai-in-supply-chain/strategic-chokepoints-semiconductor-manufacturing-and-energy-infrastructure-in-ai-competition)
-14. [Overview of the AI supply chain: Competition in artificial intelligence infrastructure](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html)
-15. [AI is hungry for power](https://www.ib.barclays/our-insights/3-point-perspective/AI-power-energy-demand.html)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/16/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -68,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -98,7 +56,7 @@ In the Global South, these macro-structural shifts are manifesting as a divergen
 
 * **The labor-productivity paradox of algorithmic automation.** The corporate prioritization of AI for labor substitution rather than enhancement is hollowing out organizational hierarchies and stalling the traditional career pathways of younger demographics. This structural exclusion is generating widespread social alienation, manifesting as passive resistance, such as China's "lying flat" phenomenon, and driving youth toward precarious, platform-dependent micro-entrepreneurship.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

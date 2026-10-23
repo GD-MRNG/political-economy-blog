@@ -10,53 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to provide you with an accurate, timely summary.World powers reshape trade and security networks
-
-The global economy is fragmenting as traditional alliances weaken and new regional partnerships emerge. The United States and Canada imposed reciprocal 50% tariffs on $20 billion in goods after trade negotiations collapsed, disrupting a historic trade relationship that moved $880 billion annually between them. Meanwhile, Pakistan, Saudi Arabia, and Turkey formalized the Mecca Joint Defense Agreement, creating an independent security framework outside Western structures. Shipping routes are shifting dramatically as Red Sea and Strait of Hormuz disruptions force companies to test Arctic passages through Russian waters, with South Korea and China leading these efforts. China's manufacturing dominance is accelerating, with humanoid robots now costing $5,900 to $16,000 compared to Western prices exceeding $90,000, leveraging integrated supply chains and government support. These structural changes signal a transition from Western-led global systems toward decentralized, regionally-focused economic and security arrangements that reduce dependence on traditional American guarantees and institutions.
-
----
-Learn more:
-1. [Full List of US Tariffs Hitting Canada as Carney Vows Dollar-for-Dollar Response](https://www.newsweek.com/full-list-of-us-trade-tariffs-hitting-canada-from-today-12355633)
-2. [U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread](https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate)
-3. [What to know about Trump's 50% tariffs on Canadian goods that just went into effect](https://www.pbs.org/newshour/economy/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect)
-4. [U.S. set to impose 50% tariffs on Canada after failed talks; Canada to match them "dollar for dollar"](https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/)
-5. [apnews.com](https://apnews.com/article/canada-us-trade-tariffs-trump-857ef76b20a766e370d70176135b678e?ref=theamericanroulette.com)
-6. [Mecca Joint Defence Agreement](https://en.wikipedia.org/wiki/Mecca_Joint_Defence_Agreement)
-7. [Saudi Arabia, Turkey and Pakistan sign key defense agreement](https://www.cbsnews.com/news/saudi-arabia-turkey-pakistan-defense-agreement/)
-8. [Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?](https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it)
-9. [Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?](https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/Mecca_Joint_Defence_Agreement)
-11. [New Arctic shipping route leaves West divided over Russia](https://uk.news.yahoo.com/arctic-shipping-route-leaves-west-184110525.html)
-12. [New Arctic shipping route leaves West divided over Russia](https://www.yahoo.com/news/world/articles/arctic-shipping-route-leaves-west-184110031.html)
-13. [Arctic shipping a daunting prospect in hotly contested region](https://www.yahoo.com/news/world/articles/arctic-shipping-daunting-prospect-hotly-024542298.html)
-14. [Arctic shipping a daunting prospect in hotly contested region](https://phys.org/news/2026-08-arctic-shipping-daunting-prospect-hotly.html)
-15. [India Joins China, South Korea in Arctic Shipping Push](https://www.ibtimes.sg/india-joins-china-south-korea-arctic-shipping-push-why-north-becoming-asias-new-trade-front-92663)
-16. [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz)
-17. [Reaching Viable Management Arrangements in the Strait of Hormuz](https://www.washingtoninstitute.org/policy-analysis/reaching-viable-management-arrangements-strait-hormuz)
-18. [2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
-19. [Red Sea crisis](https://en.wikipedia.org/wiki/Red_Sea_crisis)
-20. [wikipedia.org](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
-21. [Humanoid Production Economics \[2026\]](https://blog.robozaps.com/b/economics-of-humanoid-robot-production)
-22. [China AI Dispatch](https://chinaaidispatch.substack.com/i/201747018/the-floor)
-23. [Who Wins, Who Loses, Where the Margin Is](https://thechinachain.substack.com/p/china-humanoid-robot-supply-chain-investment-map-2026)
-24. [Humanoid Robot Prices Near $30,000：Beijing Factory's 500,000-a-Year Plan May Halve Cost, Buyers Lag](https://www.techtimes.com/articles/318157/20260610/humanoid-robot-prices-near-30000beijing-factorys-500000-year-plan-may-halve-cost-buyers-lag.htm/)
-25. [Chinese parts challenge Optimus humanoid robot production goals in US](https://interestingengineering.com/ai-robotics/chinese-parts-cloud-tesla-humanoid-robot-growth)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/24/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -78,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -108,7 +56,7 @@ In the technological domain, the competitive frontier has shifted from theoretic
 
 **The structural divergence in AI development paradigms.** The United States and China are diverging into incompatible technological models, with the US prioritizing speculative, private-equity-backed compute expansion and China utilizing state-directed, resource-insulated funding ecosystems. This divergence reduces the efficacy of unilateral Western financial sanctions and export controls, as Chinese hard tech sectors achieve structural autonomy through localized supply chains and state-backed patient capital.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

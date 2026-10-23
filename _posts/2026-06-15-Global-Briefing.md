@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Multipolar power reshapes global security architecture
-
-The world is shifting from American dominance to a multipolar system where multiple powers compete for influence. Recent negotiations between the United States and Iran, mediated by Pakistan, temporarily stabilized energy markets but revealed America's military and economic limits. Meanwhile, Israel's continued military operations in Lebanon, Syria, and Gaza contradict US de-escalation efforts, showing that American allies no longer automatically follow Washington's lead. Globally, countries are replacing US Treasury holdings with gold and developing alternative trade routes through Central Asia that bypass Western-controlled shipping lanes. China is building technological independence through state-directed innovation, while middle-power nations face shrinking room for strategic choices. These shifts mean everyday people will experience less predictable international stability, potentially higher costs for goods dependent on global supply chains, and greater competition between nations for resources and influence.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/15/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ In the technological domain, the competitive dynamic between the United States a
 
 * **The securitization of demographic and digital mobility.** States are increasingly responding to socioeconomic and geopolitical volatility by implementing biopolitical control mechanisms, including restrictive migration pacts, biometric tracking systems, and state-mandated digital restrictions such as social media bans for minors. This trend represents a structural shift toward defensive state sovereignty, where the regulation of human capital and information flows is prioritized over liberal-democratic norms of open exchange.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

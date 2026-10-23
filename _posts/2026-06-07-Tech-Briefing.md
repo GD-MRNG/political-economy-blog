@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Artificial Intelligence Shifts From Talking to Acting
-
-Artificial intelligence is transitioning from generative systems that produce text to agentic systems that autonomously execute tasks, fundamentally reshaping technology infrastructure. This shift prioritizes data context and system orchestration over raw computational power. Simultaneously, geopolitical tensions are fragmenting the global technology supply chain into competing regional ecosystems, with governments asserting control over AI development as a national security priority. Hardware, cloud platforms, and software architectures are diverging along geopolitical lines rather than technical merit. For professionals worldwide, this means developing expertise in sovereign infrastructure, agentic orchestration, and data engineering while navigating increasingly complex regulatory and security landscapes shaped by state intervention rather than market forces alone.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/07/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental transition from **Generative AI** (systems that talk) to **Agentic AI** (systems that act). This shift is moving the industry bottleneck away from the raw reasoning power of large language models and toward **system orchestration** and **data context**. As AI agents begin to perform autonomous tasks within development environments and enterprise workflows, the primary challenge for technology professionals is no longer just building models, but managing the "agentic influx"—the explosion of machine-generated code and the complex infrastructure required to govern it.
 
@@ -92,7 +75,7 @@ Capital is flowing away from general-purpose "wrappers" and toward the **physica
 
 For the professional in Singapore and Southeast Asia, the region is emerging as the primary **neutral zone** for the fractured global supply chain, with major labs from both the U.S. and China establishing centers in the city-state. However, this neutrality is fragile; the region is the front line for the "data center vs. energy" conflict, as seen in Malaysia’s struggle to balance its hub ambitions with clean energy goals. Demand for work will shift toward **foundational data engineering** and **agentic orchestration**—the skills required to build the "Context Lakes" and "Sovereign Clouds" that the next decade of technology will inhabit.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

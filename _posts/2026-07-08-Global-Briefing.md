@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">World powers fragment amid resource scarcity
-
-The post-Cold War global order is fracturing as traditional powers face resource constraints and strategic misalignment. US military stockpiles are depleting while regional actors use cheap drones to exhaust expensive defenses. Europe is redirecting civilian industry toward military production, sacrificing economic growth for security autonomy. China dominates manufacturing across all price tiers, forcing Western protectionism. Meanwhile, developing nations build alternative financial systems to escape Western sanctions, eroding the dollar's universal authority. These shifts—from energy chokepoints to industrial reorientation to parallel institutions—signal a transition from rules-based trade toward geopolitically determined market access. The practical consequence: higher energy and goods prices, reduced consumer choice, increased inflation, and slower economic growth for ordinary households worldwide.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/08/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Rather than seeking a rapid, destabilizing overthrow of the US dollar-based fina
 
 *   **The weaponization of administrative and judicial mechanisms for domestic political consolidation.** Across multiple jurisdictions, ruling elites are increasingly utilizing regulatory, judicial, and bureaucratic processes to neutralize political opposition and manage electoral outcomes. This trend is visible in the selective prosecution of political rivals, the manipulation of legislative thresholds, and the administrative revision of citizenship and electoral rolls. By transforming independent oversight bodies into instruments of factional warfare, this shift erodes the perceived neutrality of state institutions and increases the likelihood of extra-parliamentary mobilization and social polarization.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

@@ -10,48 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to provide you with an accurate, timely summary.World power shifting from West to East
-
-The global order is fundamentally reorganizing as Western dominance declines and multiple power centers emerge. Shipping routes face disruption from regional actors, forcing goods through longer, costlier paths that raise prices worldwide. Meanwhile, BRICS nations are building alternative financial systems to reduce reliance on Western banks and the dollar, creating parallel payment networks and development institutions. Artificial intelligence is straining electricity grids as data centers consume massive amounts of power, forcing governments to treat computing as critical infrastructure. Europe faces particular pressure from lost Russian energy supplies and industrial decline, fueling political instability and the rise of populist movements that reject traditional leadership. These interconnected shifts mean everyday costs are rising, financial systems are fragmenting, and political uncertainty is increasing across developed nations.
-
----
-Learn more:
-1. [Multipolarity in the Indo-Pacific: Lessons for Australia from the past and present](https://www.ussc.edu.au/multipolarity-in-the-indo-pacific-lessons-for-australia-from-the-past-and-present)
-2. [Maritime Strategy in a New Era of Great Power Competition](https://www.hudson.org/national-security-defense/maritime-strategy-in-a-new-era-of-great-power-competition)
-3. [Probing the Limits of EU Foreign and Security Policy in the South China Sea](https://www.tandfonline.com/doi/full/10.1080/03932729.2023.2280598)
-4. [UNDERSTANDING THE CHANGING WORLD ORDER](https://www.researchgate.net/publication/387528223_GLOBAL_POWER_SHIFTS_UNDERSTANDING_THE_CHANGING_WORLD_ORDER)
-5. [Japan and multipolarity in the Indo-Pacific: National mobilisation and resilience](https://www.ussc.edu.au/japan-and-multipolarity-in-the-indo-pacific-national-mobilisation-and-resilience)
-6. [Global Payment Fragmentation and Small Financial Centres: Evidence from Cyprus](https://www.mdpi.com/1911-8074/19/2/138/pdf)
-7. [Global Payment Fragmentation and Small Financial Centres](https://www.mdpi.com/1911-8074/19/2/138/xml)
-8. [The evolution of financial architecture supporting the BRICS: reshaping the global financial order?](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1657108/full)
-9. [The Rise of a Multipolar Financial Architecture: BRICS, CIPS, and the Future of Global Power](https://muratkgirgin.medium.com/the-rise-of-a-multipolar-financial-architecture-brics-cips-and-the-future-of-global-power-7319fc2a2a0b)
-10. [BRICS and the Global Financial Order](https://www.cambridge.org/core/elements/brics-and-the-global-financial-order/012E5E36D61B671834AF92BCF8122EDA)
-11. [Electricity Demand and Grid Impacts of AI Data Centers](https://arxiv.org/html/2509.07218)
-12. [Electricity Demand and Grid Impacts of AI Data Centers: Challenges and Prospects](https://arxiv.org/pdf/2509.07218)
-13. [Energy Demand, Grid Impacts, Challenges and Perspectives](https://www.mdpi.com/1996-1073/19/3/722)
-14. [Technical Challenges of AI Data Center Integration into Power Grids—A Survey](https://www.mdpi.com/1996-1073/19/1/137)
-15. [iea.org](https://www.iea.org/reports/energy-and-ai/understanding-the-energy-ai-nexus)
-16. [How Europe can escape its structural energy weakness amid great power competition](https://www.atlanticcouncil.org/in-depth-research-reports/report/how-europe-can-escape-its-structural-energy-weakness/)
-17. [Carnegie Endowment for International Peace](https://carnegieendowment.org/europe/strategic-europe/2026/05/how-the-eu-can-become-energy-independent)
-18. [System integration: The key to Europe’s energy trilemma](https://www.brookings.edu/articles/system-integration-the-key-to-europes-energy-trilemma/)
-19. [Rethinking energy transition strategies for the European Union amid rising energy prices](https://pmc.ncbi.nlm.nih.gov/articles/PMC13250444/)
-20. [European Union Institute for Security Studies](https://www.iss.europa.eu/publications/briefs/europes-energy-crisis-conundrum)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/13/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -73,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -103,7 +56,7 @@ These global economic and technological shifts are driving acute domestic politi
 
 * **Domestic political realignment driven by deindustrialization in the European core:** The structural loss of affordable energy inputs is driving a persistent contraction of European industrial competitiveness. This economic precarity is actively dismantling the post-war political consensus, forcing mainstream parties into unstable, ideologically diluted coalitions to exclude populist challengers, which ultimately paralyzes federal reform and deepens public disillusionment.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

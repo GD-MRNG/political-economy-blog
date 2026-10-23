@@ -8,10 +8,12 @@ tags: [tech]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental transition from conversational AI to **autonomous agentic systems**. Over the past year, the industry's focus has shifted from building larger chatbots to deploying software agents capable of independently executing complex, multi-step tasks within production environments. This shift is fundamentally altering the economics of software development, infrastructure design, and system maintenance, creating a new set of operational bottlenecks that directly impact the daily work of IT professionals.
 
@@ -78,6 +80,8 @@ Pricing power is concentrating in the hands of platform providers that control t
 For IT professionals in Singapore and the wider Southeast Asian region, this global shift will manifest as a surge in demand for **hybrid infrastructure engineers** who can manage localized, sovereign AI deployments. As Singapore establishes itself as a global hub for AI safety and model evaluation through partnerships with firms like Anthropic, local organizations will face intense regulatory pressure to audit and verify the decisions made by autonomous systems. 
 
 Furthermore, the regional push for localized LLMs, such as **SEA-LION** and **Sahabat-AI**, means that local engineering teams must become proficient in managing mixed AI stacks that combine American frontier models with regional, open-weight alternatives. IT professionals who can bridge the gap between cloud-native orchestration (Kubernetes, WebAssembly) and local compliance standards will find themselves at the center of the region's hiring demand.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

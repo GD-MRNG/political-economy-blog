@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [sg]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Life in Singapore is currently defined by a "great disconnect." While local banks report record profits and the stock market remains resilient, the material cost of living is rising due to external conflict. The war in Iran has moved from a distant headline to a local pressure point, inflating energy costs and disrupting the supply chains that bring food and goods to the island.
 
@@ -55,6 +57,8 @@ The implementation of the new Veterinary Council and its effect on the rising co
 The outcome of the Tripartite Jobs Council’s first initiatives regarding AI-driven retrenchment support.
 
 The impact of the strong Singdollar on the competitiveness of Singapore’s manufacturing exports.
+
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

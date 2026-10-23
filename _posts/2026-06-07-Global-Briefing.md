@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Geopolitical Friction Reshaping Global Economic Order
-
-The world is experiencing fundamental shifts in how nations trade, compete, and manage resources. The prolonged closure of the Strait of Hormuz has forced companies to abandon efficient just-in-time supply chains for expensive, redundant alternatives routed through land corridors. Meanwhile, the United States and China are building separate technological ecosystems, with each side blocking the other's access to critical semiconductors and advanced manufacturing. These disruptions are pushing developing nations away from Western institutions toward alternative trade arrangements and local currency agreements. Additionally, countries are outsourcing migration management to poorer nations while automating domestic workforces, fundamentally altering traditional social contracts between governments and citizens.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/07/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Finally, states are increasingly forced to manage the internal contradictions of
 
 *   **The institutionalization of migration externalization and border outsourcing.** The European Union and the United States are increasingly formalizing the transfer of asylum processing, detention, and deportation enforcement to third-party states. This strategy of externalization utilizes transactional economic aid and security partnerships to compel economically vulnerable nations to absorb the social and political costs of border management. This shift represents a durable realignment of global migration governance, where core economies prioritize domestic electoral stability and labor market insulation over traditional international humanitarian obligations.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

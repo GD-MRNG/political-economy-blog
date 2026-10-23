@@ -10,53 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to provide you with an accurate, up-to-date summary.Global Power Shifts Reshape Economic Order
-
-The world faces mounting fiscal strain, regional conflict, and the emergence of alternative financial systems that challenge Western dominance. The US national debt reached 28.7 trillion dollars by late 2024, with interest payments now exceeding spending on Medicare and defense. Meanwhile, the Middle East conflict between Israel and Iran escalated dramatically in 2025-2026, disrupting energy corridors and straining US military resources. To secure energy access, the US negotiated control of Venezuelan oil reserves worth over 209 billion dollars. Simultaneously, China's Cross-Border Interbank Payment System processes trillions in transactions, offering countries an alternative to dollar-based finance. Climate-driven glacier collapse in the Himalayas is destroying critical infrastructure and trade routes between China and Nepal, exposing how environmental instability threatens global commerce and forces nations to recalculate strategic dependencies.
-
----
-Learn more:
-1. [Executive Summary to the Fiscal Year 2024 Financial Report of U.S. Government](https://fiscal.treasury.gov/accounting/us-financial-report/2024/unsustainable-fiscal-path)
-2. [The Nation's Fiscal Health: Strategy Needed as Debt Levels Accelerate](https://www.gao.gov/products/gao-25-107714)
-3. [Executive Summary to the Fiscal Year 2024 Financial Report of U.S. Government](https://fiscal.treasury.gov/accounting/us-financial-report/2024/results-in-brief)
-4. [Management’s Discussion & Analysis](https://fiscal.treasury.gov/accounting/us-financial-report/2024/mda-unsustainable-fiscal-path)
-5. [Management's Discussion & Analysis](https://fiscal.treasury.gov/accounting/us-financial-report/2024/government-financial-position-and-condition)
-6. [2024 Iran–Israel conflict](https://en.wikipedia.org/wiki/2024_Iran%E2%80%93Israel_conflict)
-7. [Middle Eastern crisis (2023–present)](https://en.wikipedia.org/wiki/Middle_Eastern_crisis_(2023%E2%80%93present))
-8. [2024年イラン＝イスラエル紛争](https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%82%A4%E3%83%A9%E3%83%B3%EF%BC%9D%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E7%B4%9B%E4%BA%89)
-9. [Iran’s War With Israel and the United States](https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran/)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/2024_Iran%E2%80%93Israel_conflict)
-11. [What we know about Trump's deal giving U.S. access to vast oil reserves in Venezuela](https://www.pbs.org/newshour/politics/what-we-know-about-trumps-deal-giving-u-s-access-to-vast-oil-reserves-in-venezuela)
-12. [What we know about Trump's deal giving US access to vast oil reserves in Venezuela](https://www.yahoo.com/news/politics/articles/know-trumps-deal-giving-us-162206463.html)
-13. [Trump says U.S. now has majority control of over 60 billion barrels of Venezuelan oil reserves](https://www.cbsnews.com/news/trump-venezuela-oil-u-s-majority-control-65-billion-barrels/)
-14. [Trump says U.S. has struck deal with Venezuela to take control of 65 billion barrels of oil reserves](https://www.nbcnews.com/world/venezuela/us-entered-deal-venezuela-take-control-65-billion-barrels-oil-reserves-rcna594966)
-15. [apnews.com](https://apnews.com/article/venezuela-oil-trump-deal-unknown-questions-reserves-c229bc39b6e1a3d5dd16f7f9e67fef3f?ref=biztoc.com)
-16. [Beijing creates its own global financial architecture as a tool for strategic rivalry](https://www.canada.ca/en/security-intelligence-service/corporate/publications/china-and-the-age-of-strategic-rivalry/beijing-creates-its-own-global-financial-architecture-as-a-tool-for-strategic-rivalry.html)
-17. [What the Iran War Tells Us About the Dollar’s Vulnerability](https://www.cfr.org/articles/what-the-iran-war-tells-us-about-the-dollars-vulnerability)
-18. [Cross-Border Interbank Payment System](https://en.wikipedia.org/wiki/Cross-Border_Interbank_Payment_System)
-19. [Under the Radar](https://www.cnas.org/publications/congressional-testimony/under-the-radar)
-20. [wikipedia.org](https://en.wikipedia.org/wiki/Cross-Border_Interbank_Payment_System)
-21. [The cascade of global trade to large climate forcing over the Tibetan Plateau glaciers](https://stacks-use1.cdc.gov/view/noaa/24125)
-22. [The cascade of global trade to large climate forcing over the Tibetan Plateau glaciers](https://www.nature.com/articles/s41467-019-10876-9)
-23. [Himalayan glacier collapse hits crucial China-Nepal trade route as casualties mount](https://www.scmp.com/news/china/diplomacy/article/3365486/himalayan-glacier-collapse-hits-crucial-china-nepal-trade-route-casualties-mount)
-24. [As the Himalayas melt, deadly floods become the new normal](https://news.un.org/en/story/2026/08/1168227)
-25. [The cascade of global trade to large climate forcing over the Tibetan Plateau glaciers](https://ueaeprints.uea.ac.uk/71829/1/Published_Version.pdf)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/30/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -78,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -110,7 +58,7 @@ At the physical and technological baseline, the global order is confronting the 
 
 *   **Bifurcation of Global Technological and Industrial Standards:** The global technology sector is splitting into incompatible paradigms: a speculative, rent-seeking Western model focused on consumer-facing AI, and a state-directed Chinese model focused on physical automation and industrial efficiency. By leveraging integrated manufacturing ecosystems to produce humanoid robotics and advanced semiconductors at a fraction of Western costs, China is exporting productive capacity to establish its technical standards as the foundational layer for emerging economies.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

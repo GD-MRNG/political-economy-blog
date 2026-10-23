@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -58,7 +53,7 @@ Finally, the collapse of neoliberal market ideology has solidified a global shif
 
 * **Securitization of technology and resource-driven industrial policy:** States are increasingly abandoning free-market principles in favor of state-directed industrial planning, treating advanced technologies like artificial intelligence, robotics, and biotechnology as sovereign security assets. This shift is entering a new phase where entire product categories are restricted based on origin, and the physical infrastructure demands of the digital economy compete directly with domestic social reproduction and resource sustainability.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

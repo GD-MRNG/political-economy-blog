@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [sg]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 The material reality of living in Singapore is currently defined by a contradiction between rising personal income and growing systemic instability. While the **Ministry of Manpower (MOM)** reports that real wages grew by 4% in 2025 as inflation eased, this financial gain is being offset by a "fossil premium" on energy and goods caused by the ongoing war in Iran. You are likely feeling the benefit of a stronger **Singapore Dollar**, which has hit record highs against regional currencies, yet your long-term security is being challenged by a rapid, state-led push to integrate Artificial Intelligence into every sector of the economy.
 
@@ -60,6 +62,7 @@ The US-China tech rivalry is also landing locally through increased scrutiny of 
 *   The results of the **Economic Strategy Review** regarding new hiring preferences for local versus foreign professionals.
 *   The rollout of the first **Cross Island Line** trains and their impact on property values in the eastern and western corridors.
 
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

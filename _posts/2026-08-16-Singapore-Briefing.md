@@ -9,50 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore faces growth amid rising living costs
-
-Singapore's economy is expanding rapidly due to global demand for artificial intelligence and electronics, yet residents struggle with high daily expenses. The government is distributing cash vouchers and support packages to ease financial pressure. A new rapid transit link to Malaysia will open soon, bringing both opportunities and challenges as businesses prepare for increased cross-border competition. Meanwhile, artificial intelligence is reshaping workplaces, creating job anxiety despite overall employment growth. The government is investing heavily in infrastructure, family support programs, and regulatory compliance to maintain economic stability and international standing while managing regional competition and geopolitical pressures from major powers.
-
----
-Learn more:
-1. <https://www.imda.gov.sg/assets/e77d879a-6b39-4de4-b024-5e0c6da0eff3>
-2. <https://www.imda.gov.sg/-/media/imda/files/infocomm-media-landscape/research-and-statistics/sgde-report/singapore-digital-economy-report-2024.pdf>
-3. [Singapore Q3 GDP growth beats forecast thanks to strong chip demand](https://fortune.com/asia/2024/11/21/singapore-economy-gdp-growth-electronics-chip-exports/)
-4. [S’pore upgrades key exports forecast for 2026](https://www.straitstimes.com/business/singapores-key-exports-rise-27-4-in-q2-as-ai-lifts-electronics-shipments)
-5. <https://www.edb.gov.sg/content/dam/edb-en/business-insights/market-and-industry-reports/economic-impact-report-strengthening-singapores-ai-leadership-with-google/Economic-Impact-Report-Strengthening-Singapores-AI-leadership-with-Google.pdf>
-6. [Singapore Budget 2026](https://www.gov.sg/budget2026/)
-7. [CDC Vouchers Scheme](https://southeast.cdc.gov.sg/what-we-do/cdcvouchers/)
-8. [CDC Vouchers Scheme](https://www.cdc.gov.sg/common-flagship-programmes/cdcvs/)
-9. [About CDC Vouchers Scheme 2026 (June)](https://vouchers.cdc.gov.sg/about/about-cdc-vouchers-scheme-2026--june-/)
-10. [CDC Vouchers Scheme](https://northeast.cdc.gov.sg/what-we-do/national-initiatives/cdc-vouchers/)
-11. [Johor Bahru–Singapore Rapid Transit System](https://en.wikipedia.org/wiki/Johor_Bahru%E2%80%93Singapore_Rapid_Transit_System)
-12. [Johor Bahru – Singapore Rapid Transit System Link](https://www.lta.gov.sg/content/ltagov/en/upcoming_projects/rail_expansion/JB-Singapore_RTS_link.html)
-13. [Factsheet: Updates on the Johor Bahru – Singapore Rapid Transit System Link](https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/1/news-releases/Updates_on_JB-RTS_link.html)
-14. [Factsheet: Groundbreaking Ceremony for Johor Bahru – Singapore Rapid Transit System Link](https://lta.gov.sg/content/ltagov/en/newsroom/2021/1/news-releases/groundbreaking_ceremony_for_rtslink.html)
-15. [wikipedia.org](https://en.wikipedia.org/wiki/Johor_Bahru%E2%80%93Singapore_Rapid_Transit_System)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/16/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singapore is experiencing a dual reality of strong macroeconomic growth and intense local cost pressures. The economy expanded by 6.2 percent in the second quarter, driven by a global surge in demand for artificial intelligence and electronics. Yet, this growth has not fully translated into daily financial relief for residents, who continue to face high living costs and a shifting job market.
 
@@ -115,6 +80,8 @@ Despite these pressures, Singapore remains a highly attractive destination for g
 3. The impact of the upcoming National Day Rally family support measures on local birth rates.
 4. How local businesses adapt to the opening of the **Johor-Singapore Rapid Transit System (RTS) Link**.
 5. The potential consolidation of electric vehicle charging operators as competition intensifies in the green transport sector.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

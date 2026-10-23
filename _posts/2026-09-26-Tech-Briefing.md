@@ -8,10 +8,12 @@ tags: [tech]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a structural transition from **generative AI**—systems that write, summarize, and chat—to **agentic execution**, where autonomous software agents actively run code, call APIs, and make decisions. This transition is fundamentally altering the economics of software development, infrastructure demand, and cybersecurity. The bottleneck in technology is no longer the speed at which code can be written, but the speed and safety with which autonomous actions can be verified. 
 
@@ -82,6 +84,8 @@ Capital is rapidly retreating from software-only SaaS startups and consolidating
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, the region's positioning as a **"China+1" hub** is creating a surge in demand for localized infrastructure and compliance engineering. As multinational firms relocate pharmaceutical manufacturing, semiconductor packaging, and data operations to Singapore to navigate US-China trade tensions, there will be a critical need for engineers who can bridge the gap between Western security standards and Chinese hardware supply chains. Furthermore, Grab’s aggressive fintech expansion and the planned 2028 rollout of robotaxis indicate that local demand will be heavily concentrated in real-time edge computing, localized payment routing, and autonomous system verification.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

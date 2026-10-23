@@ -26,14 +26,9 @@ tags: [global]
 <a href="#north-america" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; font-weight: 500; font-size: 0.9em;">North America</a>
 <a href="#oceania" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; font-weight: 500; font-size: 0.9em;">Oceania</a>
 </div>
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -61,7 +56,7 @@ Domestic political volatility within major powers is now a primary constraint on
 <br>
 <br>
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

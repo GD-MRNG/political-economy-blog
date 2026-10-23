@@ -9,32 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore balances tech investment with household strain
-
-Singapore is attracting major high-tech investments and maintaining employment growth, yet individual professionals face workplace stress, stagnant purchasing power, and job security concerns from artificial intelligence. Daily living costs remain elevated despite government subsidies and price freezes on essentials. Electricity tariffs and consumer electronics are climbing due to global supply chain disruptions. The job market is polarized—semiconductor manufacturing thrives while professional services and startups struggle. The government is intervening through digital safety regulations, workforce retraining programs, and economic integration with Malaysia through the Johor-Singapore Special Economic Zone. Regional competition from Hong Kong intensifies while Middle East instability affects maritime security and shipping costs, directly impacting household budgets and business planning.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/28/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 The material reality of living and working in Singapore right now is defined by a sharp contrast. On one hand, the country is securing massive high-tech investments and maintaining steady employment growth. On the other hand, individual professionals are experiencing high levels of workplace stress, stagnant real-world purchasing power, and persistent anxiety over how artificial intelligence will reshape their jobs. 
 
@@ -108,7 +91,7 @@ The regulatory findings and potential penalties from the Infocomm Media Developm
 
 How local employers adjust compensation packages following the National Wages Council's recommendation of a 5.5% to 7.5% pay rise for lower-wage workers.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

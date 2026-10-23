@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [sg]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Life in Singapore is currently defined by two opposing forces. Externally, the conflict in the Middle East is driving up the cost of energy and food, creating a "perfect storm" of supply chain disruptions. Internally, the government is accelerating a massive shift toward Artificial Intelligence that is already changing how companies hire, operate, and pay their employees.
 
@@ -76,6 +78,7 @@ The effectiveness of the IMDA upskilling program in preventing AI-related unempl
 
 The potential for a "Godzilla El Nino" to cause haze and disrupt regional food supplies later this year.
 
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

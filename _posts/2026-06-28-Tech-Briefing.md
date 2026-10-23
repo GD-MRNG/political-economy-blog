@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI Agents Replace Prompt-Based Development Workflows
-
-The technology industry is transitioning from prompt-based AI prototyping to autonomous agents executing multi-step workflows directly in production environments. This shift moves developers from writing code to verifying machine-generated output and managing technical debt. Simultaneously, a global memory shortage is driving hardware costs higher, forcing redesigns around legacy components. Geopolitical tensions between the US and China are fragmenting the unified tech stack into isolated ecosystems, with each region developing independent semiconductors, software, and infrastructure. For IT professionals, this means adapting to bifurcated systems, implementing rigorous verification processes, and managing localized infrastructure strategies. The era of a globally integrated technology landscape is ending, replaced by complex regional environments demanding new operational approaches and specialized expertise in managing autonomous AI systems at scale.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/28/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural transition: the shift from prompt-based AI prototyping to **loop-based agentic execution**. For years, the industry focused on "vibe coding"—using natural language prompts to generate isolated blocks of code. Today, autonomous AI agents are executing multi-step workflows, writing directly to production databases, and deploying software at frequencies that traditional IT infrastructure was never built to handle. This shift is transforming the day-to-day reality of technical work, moving the human developer's primary role from writing code to verifying, auditing, and managing the massive volume of machine-generated "AI slop" and its associated technical debt.
 
@@ -114,7 +97,7 @@ Pricing power is shifting away from flat-rate, subscription-based AI coding tool
 
 For IT professionals in Singapore and Southeast Asia, these global shifts will manifest as a rapid restructuring of local engineering demand. As a primary regional gateway for both Western hyperscalers and Chinese tech giants, Singapore is seeing increased semiconductor ecosystem investments and a surge in electronics exports driven by the AI boom. However, local teams must prepare for the operational realities of a bifurcated tech stack, where managing compliance across US export controls and China's new digital ID standards for AI agents will become a core operational requirement. The immediate demand in the regional job market will shift away from pure software authoring toward platform engineering, runtime verification, and the integration of localized, self-hosted AI models.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

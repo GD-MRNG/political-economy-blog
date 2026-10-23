@@ -9,34 +9,18 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore's wealth boom masks daily financial strain
-
-Singapore's economy is growing, with stock markets rising and banks posting record profits from global wealth management. Yet most residents feel squeezed. Sixty percent now work second jobs to afford basic living costs. Housing remains out of reach for young professionals, forcing the government to pilot new rental schemes. Meanwhile, the upcoming five-minute transit link to Malaysia will intensify competition for local merchants already struggling with closures. Corporate restructuring is driving retrenchments to their highest levels since 2020, leaving even qualified professionals searching longer for work. The government is responding with subsidies, AI training programs, and plans to import solar power from Malaysia. However, deeper integration with neighboring Johor threatens local retail while offering businesses cheaper alternatives. Global tensions over trade and shipping are also pressuring supply chains and energy costs, creating a complex picture where national success masks real hardship for everyday workers.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/08/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
-<!-- preview-start -->
+<!-- exec-summary-start -->
 
 
 ---
 
-## THE GROUND PICTURE
+<!-- preview-start -->
+# Executive Summary
+
+**The Singapore Operating Picture**
 
 Singapore is experiencing a stark divergence between its macroeconomic success and the daily reality of its residents. While the **Straits Times Index (STI)** is rising and local banks are posting record profits driven by a global wealth boom, the cost of living and job security are pressing heavily on working professionals. A striking 60% of Singaporeans now report holding a second job to cope with financial demands. 
 
@@ -109,6 +93,8 @@ Whether the dry season triggers severe transboundary haze, prompting the activat
 The implementation of proposed laws to lower the en bloc consent thresholds for older condominiums.
 
 How local heartland merchants adjust their business models to survive the opening of the RTS Link.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

@@ -9,32 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Global relief meets local squeeze in Singapore
-
-Singapore is experiencing a paradox where falling global oil prices from the US-Iran peace deal have boosted markets but failed to ease household financial pressures. Retrenchments rose in early 2026, particularly affecting degree holders and older workers, while everyday costs like insurance premiums and waste collection fees continue climbing. The government is releasing CDC vouchers and freezing supermarket prices on essentials to help families adjust budgets. Job vacancies are declining as companies shift hiring toward specialized AI roles, creating intense competition for traditional white-collar positions. Meanwhile, Singapore is deepening ties with Malaysia through the Johor-Singapore Special Economic Zone while navigating US export controls on advanced AI chips that complicate local semiconductor supply chains.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/15/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singapore is navigating a period of transition where global relief and local friction meet. The signing of the US-Iran peace deal has reopened the Strait of Hormuz, bringing down global oil prices and boosting local stock markets. Yet, this external relief has not fully eased the immediate financial pressures felt by residents on the ground.
 
@@ -99,7 +82,7 @@ The resolution of the US-Iran conflict has brought immediate relief to global sh
 * Whether the rise in first-quarter retrenchments will persist into the second half of 2026 as corporate restructuring continues.
 * The impact of the Ministry of Health's insurance rider changes on out-of-pocket healthcare spending starting in late 2026.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

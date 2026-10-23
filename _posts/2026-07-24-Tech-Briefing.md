@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Technology shifts from training to validating AI outputs
-
-The technology industry is fundamentally changing. For years, the main challenge was building powerful AI models. Now that's solved—cheap, capable models are everywhere. The real bottleneck has shifted to validating, securing, and managing the massive volume of outputs these models produce. This is reshaping how companies build infrastructure, pushing them toward lightweight systems and edge computing instead of traditional cloud setups. Meanwhile, geopolitical tensions are fragmenting the global tech supply chain. Trade barriers, export controls, and tariffs are forcing companies to rebuild locally and regionally. For everyday professionals, this means the era of seamless global software development is ending. Demand is surging for people who can build secure local systems, validate AI outputs rigorously, and navigate increasingly complex regional regulations and compliance requirements.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/24/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental transition from the era of **foundation model training** to the era of **agentic execution and runtime validation**. For the past several years, the industry’s primary bottleneck was the sheer cost and computational difficulty of training larger models. Today, that bottleneck has broken. The rapid rise of highly capable, ultra-low-cost open-weight models—predominantly coming out of Chinese labs like Moonshot AI and DeepSeek—has commoditized raw inference. 
 
@@ -115,6 +98,8 @@ Pricing power is shifting away from pure software SaaS providers toward companie
 ## WHAT THIS MEANS
 
 For technology professionals in Singapore and Southeast Asia, these shifts will manifest as a surge in demand for **sovereign cloud engineering** and localized data architecture. As US tariffs and export controls restrict access to Western-hosted frontier models, regional enterprises will increasingly integrate Chinese open-weight models into local, compliant infrastructure. IT professionals should expect a hiring shift away from generalist software development toward roles focused on **system validation, security auditing, and platform engineering** capable of managing agentic workflows within highly regulated local frameworks.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

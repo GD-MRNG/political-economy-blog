@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [sg]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Living and working in Singapore is currently defined by a sharp contrast between long-term infrastructure stability and immediate financial and professional anxiety. The government is committing significant resources to physical renewals, such as the **Home Improvement Programme** for 18,000 HDB flats and the completion of the **Circle Line** MRT loop. These projects aim to maintain the quality of the living environment as the population ages and the city grows.
 
@@ -68,7 +70,7 @@ The **Iran war** and the resulting instability in the **Strait of Hormuz** are t
 *   The finalization of the Johor-Singapore Special Economic Zone agreement in early 2026.
 *   The implementation of the new Veterinary Council and its effect on pet care costs.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

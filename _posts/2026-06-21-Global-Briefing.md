@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">World Powers Shift From Dominance to Negotiation
-
-The global order is transitioning from American-led enforcement to transactional diplomacy driven by material constraints. The United States faces domestic economic vulnerabilities including depleted energy reserves and inflation, forcing prioritization of energy security over regional containment. Gulf states are diversifying strategic partnerships with Iran through commercial ties rather than exclusive American alignment. Meanwhile, technological bifurcation accelerates as export controls push China toward semiconductor autarky and open-source AI development. Third-party nations seek independent digital infrastructure to avoid foreign dependency. Underlying these shifts, institutional legitimacy crises plague both advanced and developing economies, with infrastructure decay limiting sustainable development transitions. Middle-power nations increasingly leverage geographic assets and resources for bilateral concessions from competing powers, fundamentally reshaping the multipolar landscape.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/21/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Underlying these geopolitical realignments is a persistent crisis of domestic in
 
 * **The acceleration of AI-driven labor and capital reorganization.** Corporations are transitioning from automating routine tasks to extracting and codifying human decision-making logic into proprietary digital assets, fundamentally altering the power balance between capital and labor. This structural shift is creating a highly polarized labor market, displacing mid-to-senior level professional roles in advanced economies while driving a speculative capital expenditure cycle that strains national energy grids and exacerbates global wealth concentration.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

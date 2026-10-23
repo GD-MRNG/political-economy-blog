@@ -8,10 +8,12 @@ tags: [sg]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singapore has officially crossed the threshold into a **super-aged society**, with over 21 percent of the citizen population now aged 65 and older. At the same time, the total population has grown to 6.21 million. This population rise is driven primarily by an influx of foreign construction workers needed for massive infrastructure projects, including Changi Airport Terminal 5 and the expansion of Marina Bay Sands.
 
@@ -80,6 +82,8 @@ Global financial volatility is also hitting local investment vehicles. A global 
 * The outcome of the Public Service Division's investigation into civil servants who bought property near planned MRT stations.
 * How the local retail and food sectors adjust their pricing as the RTS Link completion approaches.
 * The implementation of the new requirement for firms with over 200 employees to hire certified HR professionals by 2028.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

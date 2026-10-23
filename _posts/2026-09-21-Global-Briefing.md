@@ -10,43 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to provide you with an accurate, timely summary.World power structure fragmenting into competing blocs
-
-The global order is shifting from Western dominance toward a multipolar system where emerging powers build parallel institutions to reduce dependence on US-controlled systems. BRICS nations and allies are developing alternative payment networks, digital currencies, and trade corridors to insulate themselves from Western sanctions. Meanwhile, maritime disruptions in the Red Sea and Persian Gulf are forcing energy markets to rely on overland routes, reshaping regional power dynamics. China and the US compete across technology, infrastructure, and economic influence, while Western democracies face domestic pressures from cost-of-living crises and eroding public services. This fragmentation creates both opportunities and risks for ordinary people through higher energy costs, supply chain disruptions, and shifting economic partnerships that affect jobs and prices.
-
----
-Learn more:
-1. [What can we expect from the 2024 BRICS summit?](https://www.brookings.edu/articles/what-can-we-expect-from-the-2024-brics-summit/)
-2. [Reconfiguring regional power: BRICS economic and strategic engagement in the Middle East, 2020–2024](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1891792/full)
-3. [Managing Competition without Conflict](https://www.csis.org/analysis/us-china-relations-2024-managing-competition-without-conflict)
-4. [Fong, Brian C. H. (2024): US–China Rivalry: Great Power Competition in the Indo-Pacific](https://link.springer.com/article/10.1007/s11615-025-00595-w)
-5. <https://csis-website-prod.s3.amazonaws.com/s3fs-public/2024-01/240125_GlobalForecast_2024_ChinaChallenge.pdf>
-6. [Maritime Chokepoints and Risks to Global Shipping and Energy Security](https://www.bakerinstitute.org/sites/default/files/2026-03/20260316-Maritime%20Chokepoints.pdf)
-7. [Bab el-Mandeb crisis: New geopolitical flashpoint in West Asia](https://www.hindustantimes.com/ht-insight/international-affairs/bab-el-mandeb-crisis-new-geopolitical-flashpoint-in-west-asia-101789968893040.html)
-8. [Houthis Seize Bab al-Mandeb, Closing World's Second Oil Chokepoint](https://jp.ibtimes.com/houthis-seize-bab-al-mandeb-104493)
-9. [The Economics of a Chokepoint Crisis](https://www.haver.com/articles/the-economics-of-a-chokepoint-crisis)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/Strait_of_Bab_al-Mandab)
-11. [MBridge](https://en.wikipedia.org/wiki/MBridge)
-12. [What is BRICS Pay, and can it rival the West’s SWIFT payments system?](https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system)
-13. [What are the alternatives to SWIFT, and how are they faring? Explained](https://www.thehindu.com/news/international/what-are-the-alternatives-to-swift-and-how-are-they-faring-explained/article71483749.ece)
-14. [BRICS Payment Settlement: The Quest and Implications](https://moderndiplomacy.eu/2026/01/29/brics-payment-settlement-the-quest-and-implications/)
-15. [Can Digital Currencies Weaken U.S. Financial Dominance? The Yuan, Rupee, and BRICS Alternatives — Auditing Accounting](https://auditingaccounting.com/can-digital-currencies-weaken-u-s-financial-dominance-the-yuan-rupee-and-brics-alternatives)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/21/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -68,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -98,7 +56,7 @@ Domestically, states are responding to these external pressures through divergen
 
 * **The divergence of domestic governance paradigms.** A structural divide is widening between states executing "sovereignty-first" centralization of strategic assets—such as energy, logistics, and digital infrastructure—and states experiencing political fragmentation. In the Western core, fiscal constraints and the hollowing out of social safety nets are driving electoral volatility and populist realignment, while state-led planning models in East Asia and Latin America are consolidating executive authority to insulate their economies from external shocks.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

@@ -9,52 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to create an accurate, timely summary based on recent developments.Based on the current research, here is the summary:
-
-AI commoditization reshapes global tech landscape
-
-Open-weights models from China now dominate global token consumption, collapsing inference costs and shifting competitive advantage from raw capability to system integration. Simultaneously, AI-generated code introduces security vulnerabilities at scale—45% of AI-assisted pull requests contain exploitable flaws—forcing enterprises to rebuild development pipelines around automated verification rather than human review. Physical constraints compound the challenge: data centre power and cooling limitations are now the primary bottleneck for AI deployment, with utility interconnection queues extending three to four years in major markets. These converging forces are restructuring technical work away from coding toward harness engineering, runtime verification, and resource optimization in edge environments.
-
----
-Learn more:
-1. [The End of the Foundation Model Era: Open-Weight Models, Sovereign AI, and Inference as Infrastructure](https://arxiv.org/pdf/2604.06217)
-2. [Beyond DeepSeek: China's Diverse Open-Weight AI Ecosystem and Its Policy Implications](https://hai.stanford.edu/policy/beyond-deepseek-chinas-diverse-open-weight-ai-ecosystem-and-its-policy-implications)
-3. [China's Open-Weight Takeover](https://www.wing.vc/content/chinas-open-weight-takeover)
-4. [Why Open-Weight LLMs Got Good and Cheap](https://www.ml4devs.com/articles/llm-open-weight-model-economics-and-licensing/)
-5. [https://developers.redhat.com/articles/2026/01/07/state-open-source-ai-models-2025](https://developers.redhat.com/articles/2026/01/07/state-open-source-ai-models-2025)
-6. [A Formal Verification Study of Security Vulnerabilities in AI-Generated Code Empirical Analysis of 3,500 Code Artifacts Across Seven Large Language Models Using Z3 SMT Solver, Ablation Studies, and Static Tool Comparison](https://arxiv.org/html/2604.05292v1)
-7. [Vibe Coding Security Risks Aren’t Like Ordinary Security Risks](https://www.ibm.com/think/insights/vibe-coding-security-risks)
-8. [Top GenAI Security Challenges: Risks, Issues, & Solutions](https://www.paloaltonetworks.com/cyberpedia/generative-ai-security-risks)
-9. [AI Code Security: 10 Biggest Risks and How to Stop Them](https://mindgard.ai/blog/ai-code-security)
-10. [https://www.theregister.com/2025/04/12/ai\_code\_suggestions\_sabotage\_supply\_chain/](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/)
-11. [Data center power density: Planning liquid-cooled AI data centers around grid and power constraints](https://www.datacenterdynamics.com/en/opinions/data-center-power-density-planning-liquid-cooled-ai-data-centers-around-grid-and-power-constraints/)
-12. [Data Centre Physical Infrastructure — AE INDUSTRY NOTE](https://abundanceeconomicsresearch.substack.com/p/data-centre-physical-infrastructure)
-13. [How Grids Stall AI Growth](https://enkiai.com/ai-market-intelligence/ai-power-crisis-2025-how-grids-stall-ai-growth/)
-14. [Current Cooling Limitations Slowing AI Data Center Growth](https://airsysnorthamerica.com/current-cooling-limitations-slowing-ai-data-center-growth/)
-15. [The path to power](https://www.datacenterdynamics.com/en/marketwatch/the-path-to-power/)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/23/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural realignment driven by two converging forces: the **commoditisation of frontier AI intelligence** through high-performance open-weights models, and the **operational friction** of integrating automated code into production environments. Raw cognitive capability is no longer a scarce, expensive commodity controlled by a handful of Silicon Valley giants. The rapid rise of highly capable open-weights models—particularly from Chinese laboratories like DeepSeek and Moonshot AI—has collapsed the cost of inference, shifting the industry's primary bottleneck from model access to system integration, verification, and resource management.
 
@@ -113,6 +76,8 @@ Singapore’s approval of 200MW of new data centre capacity will immediately col
 As Chinese electric vehicle manufacturers and technology firms aggressively expand their physical and digital footprints across Southeast Asia, local IT professionals will increasingly be required to integrate and maintain hybrid systems that bridge Western cloud infrastructures with Eastern hardware and open-weights model ecosystems. 
 
 Finally, the region's high rate of AI adoption, paired with acute anxiety over job displacement and security, will accelerate local public and private sector demand for specialists in **sovereign data governance**, automated compliance, and localized security auditing.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

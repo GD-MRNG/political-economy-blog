@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [sg]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 The material reality for working professionals in Singapore is currently defined by a sharp contradiction. While the **Straits Times Index** has shown resilience and real wages grew by 3.2% in the last year, many young professionals report feeling financially inadequate. This sense of "middle-class precarity" is driven by a cost stack that remains heavy despite high nominal salaries.
 
@@ -72,7 +74,7 @@ The outcome of the **US Department of Justice** investigation into price-fixing 
 
 The implementation of the **Veterinary Council** and other new professional regulatory bodies will signal the start of stricter standards across service sectors.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

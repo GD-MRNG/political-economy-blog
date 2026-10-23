@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI Shifts From Prompts To Autonomous Agents
-
-The technology industry is fundamentally restructuring around autonomous AI systems that execute multi-step workflows rather than responding to individual prompts. This shift moves engineering focus from raw model size to runtime verification, security, and cost management. Simultaneously, inference costs are collapsing due to capable open-weight models like DeepSeek-R1, triggering corporate moves away from expensive APIs toward token budgeting and local execution. Hardware fragmentation is accelerating through geopolitical pressures and supply constraints, with Arm-based servers now dominating. Cloud infrastructure is being reengineered for high-throughput autonomous workloads, while security vulnerabilities expand as AI agents gain execution capabilities. Enterprise software is decoupling into headless, API-driven architectures with action-based billing replacing traditional licensing. Consumer technology is localizing through on-device AI integration and proprietary operating systems. Regulatory pressures are driving digital sovereignty initiatives and defensive consolidation among major platforms. Capital is consolidating around infrastructure and specialized developer tools rather than generalist AI startups. For IT professionals in Southeast Asia, this creates demand for engineers building sovereign cloud architectures and managing multi-jurisdictional compliance frameworks.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/21/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural transition: the focus of artificial intelligence is shifting from **prompt-based generation** to **autonomous, loop-based execution**, a paradigm increasingly referred to as **agentic development** or **"Loopcraft."** This transition is moving the primary engineering bottleneck away from raw model size and toward **runtime verification, security, and cost management**. As AI systems are granted the autonomy to execute multi-step workflows, write to production databases, and call external APIs, traditional software development pipelines and security perimeters are proving inadequate. 
 
@@ -114,7 +97,7 @@ Conversely, pure-play AI labs that rely solely on renting third-party compute to
 
 For IT professionals in **Singapore and Southeast Asia**, these shifts will manifest as a rapid restructuring of the regional labor market. The US plans to curb the call center industry will accelerate the transition of outsourcing hubs in the Philippines and India away from manual support toward managing automated agent networks. As multinational firms seek to navigate the growing regulatory divide between the US, China, and the EU, demand will surge in Singapore for engineers capable of building **sovereign, localized cloud architectures** and implementing complex, multi-jurisdictional data compliance frameworks.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

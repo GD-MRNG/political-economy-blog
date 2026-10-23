@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -58,7 +53,7 @@ Finally, the weaponization of Western financial infrastructure has accelerated t
 
 * **Fragmentation of global financial plumbing and capital repatriation:** The global monetary order is experiencing structural bifurcation as non-dollar trade settlement and alternative transaction systems transition from rhetorical goals to functional infrastructure. This is accelerated by the Bank of Japan's monetary policy normalization, which is driving the repatriation of Japanese capital and eroding the structural demand for US sovereign debt. The resulting rise in global bond yields is creating a regressive fiscal squeeze on deficit-prone emerging markets, compounding their vulnerability to imported inflation.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

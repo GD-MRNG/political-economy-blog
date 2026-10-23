@@ -7,7 +7,10 @@ categories: weekly briefing
 tags: [tech]
 ---
 
-## EXECUTIVE SUMMARY
+<!-- exec-summary-start -->
+# Executive Summary
+
+**The Technology Operating Picture**
 
 The structural shift in the global technology landscape has moved from **generative AI** (systems that talk) to **agentic AI** (systems that act). This transition is fundamentally changing the economics of software production and infrastructure. We are seeing the emergence of the **Model Context Protocol (MCP)** as a new industry standard, acting as a universal connector that allows AI agents to interact directly with databases, local files, and enterprise tools. This reduces the need for manual API integration but introduces significant risks in reliability and security.
 
@@ -60,6 +63,8 @@ Capital is retreating from general-purpose AI "wrappers" and flowing toward **ph
 ## WHAT THIS MEANS
 
 For IT professionals in **Singapore and Southeast Asia**, the most critical shift is the region's emergence as a **"neutral node"** in the global Token War. As the US and China restrict direct technology flows, demand for high-end data centre capacity and chip testing in Malaysia and Singapore will likely intensify. Professionals should watch the local **energy landscape**, as the ability to provide "green" and reliable power will become the primary driver for where technology work is located. The transition to agentic AI means that demand for **integration and orchestration skills** will outpace demand for pure software development in the regional market.
+
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

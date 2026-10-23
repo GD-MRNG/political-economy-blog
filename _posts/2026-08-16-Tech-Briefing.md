@@ -9,62 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for the latest information on AI developments, geopolitical tech shifts, and enterprise implications to create an accurate, current summary.Based on the latest research, here is a 100-word summary:
-
-AI agents now execute code autonomously, shifting software engineering from token prediction to task completion. Chinese models like DeepSeek and Kimi K3 match Western performance at 1/50th the cost, forcing enterprises to adopt hybrid architectures. Global memory shortages persist through 2028 as AI data centers consume 70% of capacity. Software supply chains face unprecedented threats from AI-assisted malware and sandbox escapes. Enterprise IT departments struggle with validation bottlenecks—AI generates code faster than humans can verify it. Geopolitical fragmentation is forcing localized deployments. For IT professionals, demand surges for multi-cloud platform engineering and data sovereignty expertise as organizations navigate decoupled, region-specific tech stacks.
-
-AI agents execute code autonomously now
-
----
-Learn more:
-1. [The Era of Autonomous Coding Agents](https://www.sitepoint.com/autonomous-coding-agents-guide-2026/)
-2. [Characterizing GitHub Copilot at Production Scale](https://arxiv.org/html/2608.00101v1)
-3. [How Autonomous Coding Agents Are Reshaping Software Engineering](https://arxiv.org/html/2507.15003)
-4. [Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773)
-5. [en.wikipedia.org](https://en.wikipedia.org)
-6. [China's Moonshot, Z.AI, and DeepSeek are challenging U.S. AI labs—and beating them on cost](https://fortune.com/2026/07/26/china-moonshot-deepseek-zai-kimi-challenging-us-ai-cost/)
-7. [China’s Moonshot, Z.AI, and DeepSeek are challenging U.S. AI labs—and beating them on cost](https://finance.yahoo.com/technology/ai/articles/china-moonshot-z-ai-deepseek-210000352.html)
-8. [Moonshot AI vs DeepSeek vs Qwen: 2025 Comparison](https://www.bybit.com/en/wiki/article/moonshot-ai-vs-deepseek-vs-qwen-2025-comparison/)
-9. [US vs Chinese AI Models 2026: Full Cost and Performance Comparison](https://evtv.online/en/ai/us-vs-chinese-ai-models-2026-full-cost-and-performance-comparison/)
-10. [cbinsights.com](https://cbinsights.com)
-11. [How long can the AI memory price boom last? Research suggests not much longer](https://www.scmp.com/tech/big-tech/article/3363519/how-long-can-ai-memory-price-boom-last-research-suggests-not-much-longer)
-12. [2025–present global memory supply shortage](https://en.wikipedia.org/wiki/2025%E2%80%93present_global_memory_supply_shortage)
-13. [Apple Buys Blacklisted Chinese Chips as AI Drains Memory Supply · TFTC](https://www.tftc.io/apple-cxmt-ymtc-blacklisted-chinese-chips-ai-memory-shortage)
-14. [CXMT expels Huawei-linked SiCarrier engineers from Hefei R&D](https://aiweekly.co/alerts/cxmt-expels-huawei-linked-sicarrier-engineers-from-hefei-rd)
-15. [wikipedia.org](https://en.wikipedia.org/wiki/2025%E2%80%93present_global_memory_supply_shortage)
-16. [CISO's Expert Guide To AI Supply Chain Attacks](https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html)
-17. [44% Surge in App Exploits as AI Speeds Up Cyber-Attacks, IBM Finds](https://www.infosecurity-magazine.com/news/app-exploits-surge-ai-speeds/)
-18. [Software Supply Chain Security Report: A 2025 retrospective](https://www.reversinglabs.com/blog/sscs-report-2025-retrospective)
-19. [Attacking the Assembly Line](https://www.sonatype.com/resources/research/attacking-the-assembly-line)
-20. [wikipedia.org](https://en.wikipedia.org/wiki/Supply_chain_attack)
-21. [AI Agent Evaluation for Reliable Enterprise Deployment](https://plavno.io/company/insights/ai-agent-evaluation-pipeline)
-22. [Path to production for enterprise AI: Moving beyond the experimentation trap](https://www.thoughtworks.com/en-us/insights/articles/Path-to-production-for-enterprise-AI)
-23. [Five AI Validation Patterns Every Enterprise Engineering Team Should Implement](https://techstrong.ai/features/five-ai-validation-patterns-every-enterprise-engineering-team-should-implement/)
-24. [Why RAG Systems Fail in Enterprise AI (Root Causes + Fixes)](https://appinventiv.com/blog/why-rag-systems-fail/)
-25. [arxiv.org](https://arxiv.org)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/16/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural transition: artificial intelligence is shifting from a conversational interface to an **autonomous execution runtime**. Over the past year, the industry has moved beyond simple text generation toward agentic workflows where AI systems autonomously write, test, and execute code directly within developer environments. This shift is happening alongside a massive economic disruption driven by highly capable, open-weight models from Chinese firms like **DeepSeek**, **Moonshot AI**, and **Zhipu AI**. These models are matching the performance of proprietary Western giants at a fraction of the cost, effectively commoditizing raw inference.
 
@@ -129,6 +82,8 @@ In the software layer, power is concentrating through strategic acquisitions. **
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, these global shifts will manifest as a surge in demand for **multi-cloud platform engineering** and **local data sovereignty** expertise. As Western export controls restrict access to proprietary US models, regional enterprises will increasingly deploy Chinese open-weight models like DeepSeek and Kimi, requiring engineers who can build hybrid, localized architectures. Singapore’s position as a regional digital hub will be reshaped by this technological decoupling, creating a critical need for professionals who can navigate fragmented software supply chains, secure local agent runtimes, and manage the integration of autonomous AI systems within highly regulated enterprise environments.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

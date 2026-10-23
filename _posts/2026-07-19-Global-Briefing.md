@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Global order fractures into competing blocs
-
-The world is shifting from a single dominant power structure to multiple competing systems. In the Middle East, Iran now controls key shipping routes through geographic advantage and low-cost weapons, challenging traditional US naval power. Meanwhile, China is offering affordable artificial intelligence and technology to developing countries, bypassing Western restrictions. Countries are also building alternative financial systems to avoid US dollar control and sanctions. At the same time, wealthy nations are protecting their own industries through government support rather than free trade, while poorer countries are demanding better deals on their natural resources like lithium and cobalt. These changes mean higher energy costs, less predictable supply chains, and shifting economic power away from traditional Western dominance toward regional powers and developing nations.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/19/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Finally, global supply chains are being reordered by a dual transition toward st
 
 * **The rise of defensive industrial policy and resource nationalism.** Industrialized nations are increasingly abandoning market-based procurement in favor of state-directed resource security, utilizing direct subsidies, regulatory interventions, and nationalization to secure critical supply chains. Simultaneously, developing nations are leveraging their control over raw mineral deposits to compel foreign firms to localize midstream processing, permanently altering the geography of global manufacturing and industrial value capture.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

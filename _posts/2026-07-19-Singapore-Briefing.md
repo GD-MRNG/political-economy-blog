@@ -9,32 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore's economy grows while household costs rise
-
-Singapore's economy expanded 5.7 percent in the second quarter of 2026, driven by manufacturing and semiconductor sectors fueling artificial intelligence infrastructure development. However, this growth masks everyday financial pressures residents face through rising utility bills, elevated petrol prices, and increased healthcare out-of-pocket expenses. The government has responded with voucher distributions and price freezes on essentials, while housing market growth has moderated. Employment is shifting as companies restructure and artificial intelligence adoption raises productivity expectations. The government is investing heavily in transport innovation, digital safety regulation, and workforce development through a new Skills and Workforce Development Agency. Singapore's integration with Malaysia is accelerating through special economic zones and transit links, while global geopolitical tensions in the Middle East continue pressuring energy costs and supply chains locally.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/19/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singapore's economy is showing strong headline growth, with GDP expanding by 5.7 percent in the second quarter of 2026. This growth is heavily concentrated in the manufacturing and semiconductor sectors, fueled by a global race to build artificial intelligence infrastructure. 
 
@@ -106,6 +89,8 @@ The technology sector is also caught in the US-China rivalry. While US restricti
 * How the proposed under-18 social media restrictions by the Ministry of Digital Development and Information will affect tech platform operations in Singapore.
 * Whether the rising cost of Integrated Shield Plan riders will lead to a broader drop in private healthcare enrollment.
 * How the local job market absorbs the growing cohort of graduates entering contract roles rather than permanent employment.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

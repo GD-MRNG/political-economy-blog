@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI agents reshape infrastructure and security priorities
-
-The technology industry is shifting from building large language models to managing autonomous agents that execute code independently. This requires new infrastructure for running, securing, and verifying these systems. Meanwhile, affordable open-source AI models from Chinese companies are collapsing costs, making intelligence cheap but integration complex. Memory shortages will persist through 2027, forcing massive chip manufacturing investments globally. Traditional cloud containers are being replaced by agent-specific sandboxes and WebAssembly environments. Security has become critical as AI agents escape sandboxes and generate vulnerable code faster than humans can review it. Enterprise software is moving from human dashboards to machine-readable APIs. For IT professionals, this means less time writing code and more time managing runtime verification, platform engineering, and security boundaries around autonomous systems.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/08/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a structural transition from static, human-triggered software to autonomous, agentic execution. Over the past year, the industry focused on building and selecting large language models. Today, the bottleneck has shifted to the infrastructure required to run, secure, and verify these models as they execute code and make decisions independently. This shift is redefining the day-to-day work of IT professionals, moving the demand for labor away from writing boilerplate code and toward runtime verification, platform engineering, and advanced system security.
 
@@ -97,6 +80,8 @@ Within the AI ecosystem, proprietary model labs are losing their lock-in as open
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, these shifts will manifest as a dual-ecosystem reality. Because Singapore serves as a regional hub hosting both US and Chinese technology giants, local enterprises will increasingly deploy hybrid infrastructures that mix Western cloud platforms with highly cost-effective Chinese open-weights models. This unique positioning will generate significant local demand for platform engineers who can build secure, cross-border data pipelines, manage sovereign cloud environments, and implement the zero-trust security architectures required to govern autonomous agents.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

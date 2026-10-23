@@ -9,52 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information to provide you with an accurate, up-to-date summary on this topic.Based on current information, here is your summary:
-
-AI shifts from answering questions to autonomous execution
-
-Artificial intelligence is fundamentally changing from a tool you ask questions to an active software layer that independently executes complex workflows, writes code, and interacts with your business systems. This shift is reshaping how companies operate. Inference costs have collapsed by 43 percent in just ten weeks, making AI deployment economically accessible to organizations of all sizes. Meanwhile, Chinese open-weight models now process more tokens than American alternatives at a fraction of the cost, triggering intense competition. However, massive data centers powering this technology face severe environmental constraints. Water consumption for cooling and electricity demands are forcing communities to resist new facility construction. For IT professionals, this means learning to secure, audit, and orchestrate autonomous systems rather than simply managing traditional infrastructure.
-
----
-Learn more:
-1. [16 best agentic AI tools in 2026, tested on real business workflows](https://www.moxo.com/blog/agentic-ai-tools)
-2. [25 Best Agentic AI Platforms in 2026](https://agentic.ai/best/agentic-ai-platforms)
-3. [Best Agentic AI Review 2025: I Tested 47 Platforms For 6 Months](https://axis-intelligence.com/agentic-ai-agent-honest-reviews-2025-explain/)
-4. [12 Best Agentic Engineering Platforms (2026)](https://www.taskade.com/blog/agentic-engineering-platforms)
-5. [aws.amazon.com](https://aws.amazon.com/local/hongkong/media-highlight/aws-techfest-2025/)
-6. [‘Open weight models are closing the capability gap with frontier models at a fraction of the cost’: Cheap Chinese AI models could spell trouble for US big tech](https://www.itpro.com/security/open-weight-models-are-closing-the-capability-gap-with-frontier-models-at-a-fraction-of-the-cost-cheap-chinese-ai-models-could-spell-trouble-for-us-big-tech)
-7. [Why Chinese AI Models Are Raising Prices as US Models Get Cheaper](https://weijinresearch.substack.com/p/why-chinese-ai-models-are-raising)
-8. [Why Are Chinese AI Models So Much Cheaper Than OpenAI and Anthropic?](https://www.intelligentliving.co/chinese-ai-models-cheaper-than-openai/)
-9. [AI token prices hit new record lows as inference costs plunge 43% in ten weeks](https://cryptobriefing.com/ai-token-prices-record-lows/)
-10. [China's AI APIs Cost 90% Less and Run Significantly Slower](https://techtimes.com/articles/317024/20260522/chinas-ai-apis-cost-90-less-run-significantly-slower-tradeoff-most-builders-miss.htm)
-11. [The Environmental Impact of AI Servers and Sustainable Solutions](https://arxiv.org/pdf/2601.06063)
-12. [A Systematic Review of Energy, Water, and Material Constraints](https://www.mdpi.com/2079-9276/15/9/115)
-13. [1Introduction](https://arxiv.org/html/2603.02705v1)
-14. [AI Data Centers and the Water Use Feedback Loop](https://arxiv.org/html/2606.21760v1)
-15. [wikipedia.org](https://en.wikipedia.org/wiki/AI_data_center)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/05/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a structural transition from conversational AI to **agentic execution**. AI is shifting from a tool that answers questions to an active software layer that executes multi-step workflows, writes and deploys code, and interacts directly with system APIs. This transition has triggered a aggressive price war between US frontier labs and Chinese open-weight developers. As inference costs collapse, the economic barrier to deploying autonomous software has vanished, shifting the primary bottleneck of software engineering from code generation to runtime verification and system integration.
 
@@ -117,6 +80,8 @@ Hyperscaler capital expenditure continues to reach historic highs, funded by mas
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, the immediate priority is navigating the region's unique position as a neutral zone in the US-China tech race. Singapore’s strict green data center mandates mean that local infrastructure must be highly optimized for energy efficiency, driving demand for engineers skilled in edge computing, WebAssembly, and hybrid cloud architectures. As regional enterprises increasingly outsource AI inference to cheaper Chinese open-weight models to bypass US hardware restrictions, the local market will require professionals who can integrate, secure, and audit highly fragmented, multi-vendor technology stacks.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

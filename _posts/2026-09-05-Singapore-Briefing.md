@@ -9,71 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about Singapore to provide you with an accurate, up-to-date summary.Based on the current information, here is a 100-word summary:
-
-Singapore navigates rising living costs and environmental pressures as inflation climbs to 2.2 percent and electricity prices surge. The economy grew 4.8 percent in 2025 despite trade tensions, driven by AI-related semiconductor demand. Tech jobs boom with strong hiring for engineers and data scientists, yet entry-level positions remain scarce. Housing prices stabilize while rental costs accelerate. Transboundary haze forces businesses to activate contingency plans. The government maintains fiscal surplus and targets household support through subsidies and childcare credits. Unemployment stays low at 2 percent, but wage growth moderates as employers manage costs amid global uncertainty.
-
----
-
-Singapore economy grows amid rising costs and tech hiring surge
-
-Singapore navigates rising living costs and environmental pressures as inflation climbs to 2.2 percent and electricity prices surge. The economy grew 4.8 percent in 2025 despite trade tensions, driven by AI-related semiconductor demand. Tech jobs boom with strong hiring for engineers and data scientists, yet entry-level positions remain scarce. Housing prices stabilize while rental costs accelerate. Transboundary haze forces businesses to activate contingency plans. The government maintains fiscal surplus and targets household support through subsidies and childcare credits. Unemployment stays low at 2 percent, but wage growth moderates as employers manage costs amid global uncertainty.
-
----
-Learn more:
-1. [Singapore businesses, groups prepare as air quality worsens due to haze](https://www.straitstimes.com/singapore/business-as-usual-for-now-but-firms-groups-make-plans-if-air-quality-worsens)
-2. <https://amro-asia.org/wp-content/uploads/2025/12/Exective-Summary.pdf>
-3. [Singapore budget - March 2025](https://www.mfat.govt.nz/assets/Trade-General/Trade-Market-reports/Singapore-budget-March-2025.pdf)
-4. <https://www.sgpc.gov.sg/api/file/getfile/ESS%202025_Full%20Report.pdf?path=/sgpcmedia/media_releases/mti/press_release/P-20260210-1/attachment/ESS%202025_Full%20Report.pdf>
-5. [IMF Executive Board Concludes 2025 Article IV Consultation with Singapore](https://www.imf.org/en/news/articles/2025/07/14/pr-25250-singapore-imf-concludes-2025-article-iv-consultation)
-6. [Singapore manufacturing surge powers 2025 growth to highest since 2021 amid AI boom](https://www.straitstimes.com/business/economy/singapores-gdp-growth-jumps-to-5-7-in-fourth-quarter-sending-2025-growth-to-highest-since-2021)
-7. [S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: PM Wong](https://www.straitstimes.com/singapore/politics/spore-economy-grew-4-8-in-2025-must-refresh-strategy-to-remain-competitive-pm-wong)
-8. [Singapore GDP Q1 2025](https://www.focus-economics.com/countries/singapore/news/gdp/singapore-national-accounts-p-14-04-2025-gdp-growth-falls-more-than-expected-in-the-first-quarter/)
-9. [wikipedia.org](https://en.wikipedia.org/wiki/2025_in_Singapore)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/Economy_of_Singapore)
-11. [Singapore Department of Statistics | Singapore Consumer Price Index by Houshold Income Group, Jan-Jun2026](https://www.singstat.gov.sg/files/a4e7216c-343a-41b9-b38c-8a0c8c8124f3.pdf)
-12. [Singapore Department of Statistics | Singapore Consumer Price Index, May 2026](https://www.singstat.gov.sg/files/190ca70b-2d16-41a5-9298-fee401cb0cfe.pdf)
-13. [Singapore Department of Statistics | Singapore Consumer Price Index, Jun 2026](https://www.singstat.gov.sg/files/de576b14-163c-45a9-b855-7b9104dfab0a.pdf)
-14. [Singapore Consumer Price Index, Jul 2026](https://www.singstat.gov.sg/news/singapore-consumer-price-index-jul2026)
-15. [Singapore Inflation Rate](https://tradingeconomics.com/singapore/inflation-cpi)
-16. [Singapore Residential Property Price Index MoM](https://tradingeconomics.com/singapore/house-price-index-mom)
-17. [Singapore’s core inflation rises to 1.6% in June, driven by higher prices of food, retail goods and services](https://www.channelnewsasia.com/singapore/core-inflation-june-2026-mas-mti-6272626)
-18. [Singapore Consumer Price Index (CPI)](https://tradingeconomics.com/singapore/consumer-price-index-cpi)
-19. [Release of 2nd Quarter 2026 real estate statistics](https://www.ura.gov.sg/news/media/pr26-57/)
-20. [Higher housing maintenance, repair costs push up Singapore accommodation inflation in January](https://sg.news.yahoo.com/higher-housing-maintenance-repair-costs-071158489.html)
-21. [Strong hiring demand for engineers, tech specialists in S’pore](https://www.straitstimes.com/business/economy/strong-hiring-demand-for-engineers-tech-specialists-in-spore-as-newly-created-roles-climb-in-2025)
-22. [Nucamp](https://www.nucamp.co/blog/coding-bootcamp-singapore-sgp-getting-a-job-in-tech-in-singapore-in-2025-the-complete-guide)
-23. [Technology Jobs Singapore 2025: Salary Guide & Outlook](https://www.randstad.com.sg/hr-trends/workforce-trends/technology-2025-job-market-outlook-salary-guide/)
-24. [Most In-Demand Careers in Singapore (2026)](https://www.smartsinga.com/most-wanted-career-singapore/)
-25. [Nucamp](https://www.nucamp.co/blog/coding-bootcamp-singapore-sgp-inside-singapores-thriving-tech-hub-startups-and-success-stories)
-26. [Most In-Demand Jobs in Singapore 2026](https://studyonline.unsw.edu.au/most-in-demands-jobs-singapore)
-27. [Most In-Demand Jobs in Singapore 2026](https://studyonline.unsw.edu.au/sg/blog/most-in-demands-jobs-singapore)
-28. [Singapore IT Labour Market in Focus](http://teksystems.com/en-sg/insights/article/singapore-it-labour-market-focus)
-29. [https://www.morganmckinley.com/sg/salary-guide/data/data-centre/singapore](https://www.morganmckinley.com/sg/salary-guide/data/data-centre/singapore)
-30. [https://www.atomicgroup.sg/IndustryInsights/893.html](https://www.atomicgroup.sg/IndustryInsights/893.html)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/05/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 Singaporeans are currently navigating a physical and financial environment marked by immediate environmental pressures and rising living costs. The return of transboundary haze, with the **Pollutant Standards Index (PSI)** crossing into the unhealthy range in central Singapore, has forced businesses and schools to activate emergency response plans. This physical disruption coincides with a period of high state revenue, as national tax collection reached a record S$97.3 billion, driven by a resilient economy. 
 
@@ -146,6 +90,8 @@ The implementation of the sustainable aviation fuel levy by the Civil Aviation A
 The impact of the newly proposed en bloc sales consent threshold laws on the private residential market.
 
 The rollout of Singapore's customized social media safety regulations for users under 18.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Western Power Fades as Rivals Build New Orders
-
-The world is shifting away from American-led security arrangements as traditional allies develop independent defense partnerships. Meanwhile, the United States and China remain locked in technological competition, but neither can fully decouple from the other due to shared supply chains. Western economies prioritize financial markets over physical infrastructure, while China builds industrial redundancy through state investment. These structural differences limit the effectiveness of trade restrictions. Additionally, wealthy nations are losing control over migration flows as transit countries weaponize refugee movements for political leverage, forcing countries to reintroduce border controls and expand domestic surveillance. Together, these trends signal a transition toward fragmented, localized power structures replacing the post-Cold War global order.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/08/09/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ On the geopolitical periphery, the externalized border management models of the 
 
 * **The structural exhaustion of externalized border regimes.** The reliance of affluent states on third-party transit nations to police migration has created a permanent vulnerability, allowing demographic flows to be weaponized as coercive diplomatic leverage. This instrumentalization is driving the reintroduction of unilateral border controls within previously integrated zones, undermining regional cohesion and accelerating the securitization of domestic administrative governance.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

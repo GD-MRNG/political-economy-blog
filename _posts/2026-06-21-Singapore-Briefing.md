@@ -9,32 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore balances global competitiveness with domestic pressures
-
-Singapore ranks as the world's most competitive economy, yet residents face high-pressure work environments and rising costs. Electricity tariffs will increase significantly in July due to natural gas imports, though government vouchers and price freezes on essentials provide temporary relief. The job market is bifurcated, with AI-related roles thriving while traditional sectors experience consolidation and burnout. New transit infrastructure promises faster commutes, and housing supply remains steady despite high property costs. The government is aggressively pushing AI workforce development while tightening digital regulations. Regional integration with Malaysia deepens through special economic zones, though neighboring policy shifts create volatility. Global capital flows into Singapore as a safe harbor, even as international trade restrictions and energy vulnerabilities persist.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/21/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 **Singapore** has reclaimed its position as the world's most competitive economy, driven by strong corporate performance and business efficiency. Yet, this macro-level success contrasts with a daily reality that many residents describe as a high-pressure environment. Local workers are navigating a complex transition marked by rapid artificial intelligence integration, persistent cost pressures, and structural changes in the job market.
 
@@ -100,7 +83,7 @@ The core dynamic is Singapore acting as a safe harbor for global capital and tec
 4. The implementation of new guidelines by the Tripartite Jobs Council to support workers displaced by artificial intelligence.
 5. The progress of the US-Iran nuclear negotiations and its direct influence on local electricity tariffs.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

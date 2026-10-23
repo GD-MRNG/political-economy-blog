@@ -8,10 +8,12 @@ tags: [tech]
 ---
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural transition. The industry is moving away from the era of conversational AI chatbots and entering a phase dominated by **autonomous agentic execution**. This shift is moving the primary bottleneck of technology deployment from model size and training compute to the execution environment itself. IT professionals are no longer just building systems for human operators; they are building secure, low-latency runtimes where software agents can write code, execute commands, and provision resources independently.
 
@@ -112,6 +114,8 @@ For IT professionals in Singapore and Southeast Asia, these shifts are creating 
 The region's strategic neutrality is being tested by US-China technology polarization, meaning local systems must be designed to support mixed technology stacks that combine Western platforms with Chinese open-weight models. 
 
 IT professionals who position themselves at the intersection of **runtime security, local model integration, and cloud-native virtualization** will find themselves at the center of the region's hiring demand.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

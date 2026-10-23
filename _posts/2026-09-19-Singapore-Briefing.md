@@ -9,58 +9,15 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about Singapore to provide you with an accurate, up-to-date summary.Singapore faces mounting pressures on daily life and household finances. Transboundary haze has returned for the first time in nearly three years, with air quality reaching unhealthy levels and forcing residents to limit outdoor activities. Major infrastructure delays, particularly the North-South Corridor now pushed to 2029-2031, prolong traffic congestion affecting commutes and businesses. Meanwhile, export growth driven by artificial intelligence demand masks rising domestic costs: mortgage rates climb as interest rates stay elevated, fuel prices exceed four dollars per litre due to Middle East tensions, and household budgets face strain from renovation fraud and vehicle scams. Employment remains volatile with retrenchments concentrated in restructuring, while the government pursues deeper economic integration with Malaysia through the Johor-Singapore Special Economic Zone, expected to launch in 2025 with significant cross-border investment already committed.
-
----
-Learn more:
-1. [Haze in Singapore: PSI in central region back in the unhealthy range](https://sg.news.yahoo.com/haze-singapore-psi-central-region-050257553.html)
-2. [PSI hits unhealthy range in Singapore for first time since 2019; govt task force convenes](https://www.straitstimes.com/singapore/psi-hits-unhealthy-range-in-singapore-as-air-quality-worsens)
-3. [Haze in Singapore: PSI in central region in unhealthy range](https://www.straitstimes.com/singapore/haze-in-singapore-psi-in-central-region-back-in-the-unhealthy-range?ref=singapore)
-4. [Air quality in central Singapore enters unhealthy range](https://www.straitstimes.com/singapore/air-quality-in-central-region-enters-unhealthy-range-again-with-a-24-hour-psi-reading-of-102)
-5. [wikipedia.org](https://en.wikipedia.org/wiki/Air_quality_index)
-6. [North-South Corridor opening delayed to 2029 in Singapore](https://www.straitstimes.com/singapore/transport/north-south-corridor-opening-delayed-two-years-amid-construction-challenges)
-7. [Singapore’s North-South Corridor delayed by two years after underground construction challenges](https://theindependent.sg/singapore-s-north-south-corridor-delayed-by-two-years-after-underground-construction-challenges)
-8. [Concern, resignation among residents and businesses as North-South Corridor works stretch to 2031](https://www.straitstimes.com/singapore/transport/concern-resignation-among-residents-and-businesses-as-north-south-corridor-works-stretch-to-2031?ref=latest)
-9. [Singapore’s North-South Corridor delayed by two years after underground construction challenges](https://fop.theindependent.sg/singapore-s-north-south-corridor-delayed-by-two-years-after-underground-construction-challenges/)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/North%E2%80%93South_Corridor,_Singapore)
-11. <https://sgpc.gov.sg/api/file/getfile/MR03124_Singapore%20External%20Trade%20for%20August%202024_2024%2009%2017.pdf?path=/sgpcmedia/media_releases/enterprise-sg/press_release/P-20240917-1/attachment/MR03124_Singapore%20External%20Trade%20for%20August%202024_2024%2009%2017.pdf>
-12. [Singapore raises export forecast amid AI boom](https://www.straitstimes.com/business/economy/singapore-raises-forecast-for-key-exports-amid-ai-boom)
-13. [August export rebound points to sustained AI demand through 2027: UOB](https://sbr.com.sg/economy/in-focus/august-export-rebound-points-sustained-ai-demand-through-2027-uob)
-14. [Singapore's August non-oil domestic exports surge 46%, largest gain on record, driven by AI demand — BigGo Finance](https://finance.biggo.com/news/5449a0ea-75c2-44b4-ad1e-e2e37822b54d)
-15. [wikipedia.org](https://en.wikipedia.org/wiki/Economy_of_Singapore)
-16. [Retrenchments in Singapore fall in 2024, employment growth slows: Advance estimates](https://www.channelnewsasia.com/singapore/retrenchments-fall-2024-employment-growth-slows-labour-market-mom-4898341)
-17. [Labour Market Report Third Quarter 2024](https://stats.mom.gov.sg/iMAS_Infographics/mrsd-Labour-Market-Report-3Q-2024-Infographic.pdf)
-18. [0127 Labour Market Advance Release](https://www.mom.gov.sg/newsroom/press-releases/2025/0127-labour-market-advance-release---4q-2024)
-19. [Fewer S’pore retrenchments in 2024 than in 2023; resident employment grew: MOM](https://www.straitstimes.com/business/fewer-spore-retrenchments-in-2024-than-in-2023-resident-employment-grew-mom)
-20. [mom.gov.sg](https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026)
-21. [JS-SEZ SS Teo Slides](https://www.sbf.org.sg/docs/default-source/advocacy-policy/sbf-research-reports/sbf-topical-research-reports/js-sez_sbwg-slides-2024.pdf?sfvrsn=4d6a5025_1)
-22. [Johor-Singapore Special Economic Zone (JS-SEZ)](https://www.jll.com/en-sea/insights/johor-singapore-special-economic-zone-js-sez)
-23. [The Johor-Singapore SEZ – How businesses are expanding to capture growth](https://www.edb.gov.sg/en/news-and-insights/the-johor-singapore-sez-how-businesses-are-expanding-to-capture-growth)
-24. [Malaysia: The Johor-Singapore Special Economic Zone – A tale of two cities (with a modern twist)](https://insightplus.bakermckenzie.com/bm/international-commercial-trade/malaysia-the-johor-singapore-special-economic-zone-a-tale-of-two-cities-with-a-modern-twist)
-25. [wikipedia.org](https://en.wikipedia.org/wiki/Economy_of_Johor)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/19/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## THE GROUND PICTURE
+**The Singapore Operating Picture**
 
 The immediate material reality in Singapore is defined by a tightening squeeze on daily life, marked by the return of transboundary haze and significant infrastructure delays. For the first time in seven years, the 24-hour Pollutant Standards Index (PSI) in the central region has crossed into the unhealthy range, driven by forest fires in Indonesia. This has already begun to thin crowds at open-air eateries and public parks, forcing businesses and households to adjust to deteriorating air quality.
 
@@ -113,6 +70,8 @@ In the technology domain, the global race for AI dominance has exposed severe se
 * The potential introduction of chemical castration for high-risk sex offenders remains under government review to determine its clinical and legal viability in Singapore.
 * The commercial rollout of **Waymo's** driverless ride-hailing services in 2028 will show how rapidly autonomous vehicles can integrate into Singapore's public transport network.
 * The feasibility study on allowing food donations past their "best by" dates will shape Singapore's legislative approach to food waste and supply resilience.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

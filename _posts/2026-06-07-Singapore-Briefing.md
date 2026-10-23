@@ -9,34 +9,18 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore navigates AI-driven economic shift
-
-Singapore's economy is transitioning toward artificial intelligence and high-tech industries while managing persistent high costs in housing, transport, and energy. Core inflation has eased to 1.4%, but essential services remain expensive. The government is distributing household vouchers and freezing prices on daily goods through 2026. Job markets are splitting: AI and data center roles are expanding rapidly, while traditional manufacturing and back-office work face automation pressure or relocation. Real wages grew 4% in 2025, yet 61% of workers report burnout. The government is establishing new training agencies to help one million workers adapt to AI-integrated roles. Regional integration with Malaysia's Johor is deepening through the Special Economic Zone initiative. Global trade tensions, particularly potential US tariffs on exports, pose significant risks to Singapore's economy in coming months.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/07/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
-<!-- preview-start -->
+<!-- exec-summary-start -->
 
 
 ---
 
-## THE GROUND PICTURE
+<!-- preview-start -->
+# Executive Summary
+
+**The Singapore Operating Picture**
 
 The material reality for a professional in Singapore is currently defined by a transition toward an **AI-driven economy** amid persistent regional instability. While core inflation has eased to 1.4%, the cost of essential services and transport remains high. The government is actively intervening with direct household support and aggressive industry subsidies to manage this shift.
 
@@ -92,7 +76,7 @@ The success of **NTUC’s** AI-Ready workshops in reducing burnout and improving
 
 The stability of the **Strait of Hormuz** and its direct effect on Singapore’s electricity and fuel prices.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

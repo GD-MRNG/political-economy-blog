@@ -28,14 +28,9 @@ tags: [global]
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -58,7 +53,7 @@ Domestically, both advanced and emerging economies are experiencing a systemic b
 
 * **The institutionalization of asymmetric deterrence in maritime chokepoints.** Non-state actors and medium powers are successfully leveraging low-cost, domestically produced precision munitions to neutralize conventional military superiority in critical trade corridors. This erosion of Western naval hegemony imposes a permanent risk premium on global shipping and energy transit, forcing a re-evaluation of regional security dependencies and accelerating the fragmentation of global supply chains.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

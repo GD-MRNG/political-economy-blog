@@ -9,34 +9,18 @@ tags: [sg]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">Singapore faces rising costs amid tightening job market
-
-Singapore's economy is growing, but ordinary residents face persistent inflation, higher living costs, and shrinking job security. Employment disputes have hit their highest levels since 2019, while fresh graduates struggle to find entry-level positions. Global conflicts are driving up energy and shipping costs, directly affecting local prices. The government is investing heavily in infrastructure, digital safety, and worker retraining programs. Meanwhile, Singapore is deepening ties with Malaysia through the Johor-Singapore Special Economic Zone while defending its regional economic position. New US tariffs and Middle East shipping disruptions are adding pressure to household budgets and business operations.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/24/Singapore-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
-<!-- preview-start -->
+<!-- exec-summary-start -->
 
 
 ---
 
-## THE GROUND PICTURE
+<!-- preview-start -->
+# Executive Summary
+
+**The Singapore Operating Picture**
 
 Living and working in Singapore right now means navigating a high-cost environment with a tightening job market. While the economy continues to grow, ordinary professionals are feeling the squeeze of persistent inflation and corporate restructuring. Global conflicts and new trade barriers are directly impacting local prices and business operations.
 
@@ -106,6 +90,8 @@ Simultaneously, the ongoing conflict in the Middle East is directly impacting lo
 2. The outcome of the Ministry of Trade and Industry's negotiations with the US regarding the 12.5% tariff.
 3. The impact of the new Cat Management Framework transition on HDB residents as the late August deadline approaches.
 4. Whether upcoming electricity tariff reviews will rise in response to sustained US$100 oil prices.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

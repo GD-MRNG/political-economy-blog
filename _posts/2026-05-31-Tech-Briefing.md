@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [tech]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is currently undergoing a structural transition from **Generative AI** (systems that talk) to **Agentic AI** (systems that act). This shift is moving the industry beyond the novelty of chatbots and into the complex territory of autonomous execution. While the previous phase focused on the cost of training models, the new bottleneck is **inference economics** and the "coordination tax"—the hidden operational cost of managing, auditing, and securing thousands of autonomous agents performing tasks across corporate networks.
 
@@ -62,7 +64,7 @@ A new dependency is forming around **advanced memory (HBM)** and **power managem
 
 For the IT professional in **Singapore and Southeast Asia**, the most critical shift is the regional push for **digital economy frameworks (ASEAN 2026)** and sovereign cloud infrastructure. As the US and China decouple, Singapore is positioning itself as a neutral "coalition of the willing" hub, which will create high demand for professionals who can navigate **cross-border data compliance** and multi-cloud architectures. The "AI chill" in the finance sector suggests that traditional roles are being rapidly transformed, making **AI governance and agent orchestration** the most resilient skill sets in the local market.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI Cost Collapse Reshapes Global Tech
-
-The cost of advanced AI capabilities has plummeted as open-source models like DeepSeek-R1 and efficient local alternatives flood the market, triggering a price war that makes traditional software pricing obsolete. For IT professionals, this means code generation is now cheap and abundant, shifting the real bottleneck to validating machine-generated code, securing supply chains, and managing autonomous agents. Physical constraints—power shortages, memory scarcity, and data center limits—are forcing infrastructure to decentralize toward edge devices and regional clouds. Enterprise software is abandoning seat-based licensing for transaction-based agent billing. Capital is consolidating around companies controlling physical bottlenecks rather than software alone. For Southeast Asian IT teams, this creates urgent demand for hybrid cloud expertise, edge security, and legacy system modernization to navigate competing US and Chinese AI ecosystems while maintaining regional data sovereignty.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/07/19/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental structural shift: the cost barrier for frontier-class AI reasoning and coding capabilities has collapsed. The aggressive release of highly capable, open-weight models—such as **DeepSeek-R1**, **Kimi K3**, and **GLM-5.2**—combined with highly efficient local models like **Gemma 4**, has turned raw inference into a cheap commodity. This shift has triggered an intense price war among model providers, rendering seat-based SaaS pricing models obsolete and forcing a transition toward action-based billing. 
 
@@ -99,6 +82,8 @@ Furthermore, the rise of highly capable open-weight models has broken the monopo
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, this global shift will manifest as intense demand for **infrastructure localization and hybrid system integration**. As US and Chinese AI giants compete to integrate their respective open-source ecosystems into the region's digital trade corridors, local enterprises will require engineers who can build secure, multi-cloud architectures that respect regional data sovereignty laws. The rapid expansion of data center hubs in Johor and Singapore, coupled with the regional adoption of physical AI in manufacturing and maritime logistics, will create a premium for professionals skilled in network intent control, edge-native security, and legacy system modernization.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>

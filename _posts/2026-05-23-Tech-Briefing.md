@@ -7,8 +7,10 @@ categories: weekly briefing
 tags: [tech]
 ---
 
+<!-- exec-summary-start -->
+# Executive Summary
 
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The structural shift in the global technology landscape has moved from the development of large language models to the deployment of **autonomous agentic systems**. We are transitioning from a "chat" interface to an "action" interface, where AI is being integrated directly into the execution layers of software. This shift is fundamentally changing the economics of the industry, moving billing models from seat-based subscriptions to **action-based or token-based consumption**.
 
@@ -71,7 +73,7 @@ For IT professionals in **Singapore and Southeast Asia**, the most critical shif
 
 The opening of the **Pinglu Canal** and the deepening of China-ASEAN trade links suggest that the region will increasingly adopt **Chinese AI hardware and "frugal" models** (like DeepSeek) alongside Western stacks. This dual-stack environment will require a workforce capable of navigating different regulatory frameworks and technical standards, particularly as **Malaysia and Singapore** implement stricter digital platform rules and AI safety frameworks.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

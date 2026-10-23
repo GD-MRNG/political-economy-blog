@@ -10,45 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for current information about the global geopolitical situation to provide you with an accurate, up-to-date summary.Based on current information, here is your summary:
-
-World splits into competing economic blocs
-
-The global order is fracturing into two competing systems. Western nations, led by the United States, are losing economic dominance as emerging powers build alternative financial networks. The Shanghai Cooperation Organization and BRICS are creating parallel trade systems using local currencies instead of dollars, with 97 percent of SCO trade now bypassing the dollar entirely. These new institutions are constructing land-based trade routes and independent payment systems to reduce Western financial control. Meanwhile, the U.S. military faces critical ammunition shortages after conflicts in the Middle East, forcing a shift toward cheaper drone-based warfare. This structural realignment reflects a fundamental power transition where economic relevance and technological capability matter more than ideological alignment, reshaping how nations cooperate and compete.
-
----
-Learn more:
-1. [UNDERSTANDING THE CHANGING WORLD ORDER](https://www.researchgate.net/publication/387528223_GLOBAL_POWER_SHIFTS_UNDERSTANDING_THE_CHANGING_WORLD_ORDER)
-2. [Transition from Unipolar to Multipolar World](https://www.researchgate.net/publication/351422440_Changing_Dynamics_of_Global_Politics_Transition_from_Unipolar_to_Multipolar_World)
-3. <http://repozitorijum.diplomacy.bg.ac.rs/1318/1/iipe_gsirescu-2024-ch4.pdf>
-4. <https://researchonline.lse.ac.uk/id/eprint/125311/1/The_rise_of_multiplexity_and_a_future_of_world_orders.pdf>
-5. [imdb.com](https://imdb.com)
-6. [The SCO, BRICS, and Gold](https://simonnoelpoirier.substack.com/p/the-sco-brics-and-gold-bypassing)
-7. [Plan to boost local currency settlement among SCO countries underway](https://www.globaltimes.cn/page/202309/1298065.shtml)
-8. [China's Regional De-Dollarization Plans Are Speeding Up](https://foreignpolicy.com/2022/09/21/china-yuan-us-dollar-sco-currency/?tpcc=recirc_latestanalysis062921)
-9. ['De-dollarization' and 'economic integration' on Iran's agenda at SCO summit ](https://www.tehrantimes.com/news/529570/De-dollarization-and-economic-integration-on-Iran-s-agenda)
-10. [wikipedia.org](https://en.wikipedia.org/wiki/Dedollarisation)
-11. [Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China](https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china)
-12. [How to Reshape U.S. Defense Production to Counter China](https://www.cfr.org/articles/cfr-report-takeaways-how-to-reshape-u-s-defense-production-to-counter-china)
-13. [How Quickly Can the DOD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
-14. [Arsenal of Procrastination:](https://jinsa.org/wp-content/uploads/2026/07/Munitions-Report-July-2026.pdf)
-15. [Council on Foreign Relations](https://www.cfr.org/articles/the-u-s-munitions-crisis)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/06/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -70,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -98,7 +54,7 @@ Simultaneously, the Western imperial core is exhibiting signs of structural over
 
 * **Climate-induced cryospheric instability as a transboundary security risk.** Rapid warming in high-altitude regions, particularly the Himalayas, is generating high-magnitude geohazards that outpace current disaster response capabilities and infrastructure design standards. The transition from predictable seasonal flooding to sudden, high-velocity bedrock-failure avalanches and landslide-induced dam breaches is physically disrupting critical trade corridors and energy infrastructure along the China-Nepal border. This environmental volatility is forcing a shift in regional governance from localized, reactive aid to a structural requirement for binding, transboundary water-sharing and data-integrated early-warning systems.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

@@ -10,25 +10,6 @@ tags: [global]
 <a id='top'></a>
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">World power shifts from unipolar to multipolar
-
-The global order is fragmenting from American-led unipolarity toward competing regional powers managing their own security. The US, constrained by depleted energy reserves and military overextension, has retreated from escalation dominance in West Asia, allowing middle powers like Saudi Arabia and Oman to fill the vacuum. Simultaneously, technology is splitting into competing ecosystems as US export controls paradoxically strengthen Chinese self-sufficiency in semiconductors and AI. Europe faces structural decline as Germany loses cheap Russian gas and manufacturing competitiveness while the UK struggles with post-Brexit economic constraints. Meanwhile, developing nations are building parallel financial systems and rejecting Western political conditions, instead pursuing sovereignty-first partnerships that prioritize infrastructure over governance reform. These shifts mean everyday citizens face higher energy costs, supply chain disruptions, reduced access to certain technologies, and less predictable international stability as traditional institutions lose influence.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/30/Global-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
 
@@ -50,14 +31,9 @@ function copyShareSummary() {
 </div>
 
 
+<!-- exec-summary-start -->
+
 <!-- preview-start -->
-
-
-
-
-
-
-
 # Executive Summary
 
 **The Global Operating Picture**
@@ -80,7 +56,7 @@ Across the Global South, states are actively leveraging resource sovereignty and
 
 * **The institutionalization of parallel financial and resource architectures in the Global South.** This steady-state dynamic is being reinforced by the expansion of BRICS and the Shanghai Cooperation Organisation, alongside the development of non-dollar payment rails and commodity-backed reserves. Developing states are increasingly leveraging critical mineral reserves and transport corridors, such as Central Asia's Middle Corridor, to secure strategic autonomy and insulate their economies from Western financial statecraft.
 
-
+<!-- exec-summary-end -->
 
 # Global <a id='global'></a>
 

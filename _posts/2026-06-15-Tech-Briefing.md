@@ -9,32 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">AI Hype Gives Way to Operational Reality
-
-The technology industry is shifting from rapid AI model scaling to managing the practical consequences of widespread deployment. AI-generated code is overwhelming traditional software pipelines, creating security vulnerabilities and inflating cloud costs, forcing companies toward usage-based billing models. Physical infrastructure is hitting hard limits with data center power and water constraints triggering local moratoriums. Geopolitically, technology stacks are fracturing as export controls and national security directives restrict advanced system access by nationality. For professionals, demand is moving away from solo developers writing code toward specialists who can verify, secure, and integrate complex AI workflows within existing enterprise systems while managing costs and compliance risks.
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/06/15/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a fundamental transition from the era of generative hype to a period of operational reckoning. For the past two years, the industry focused on raw model scaling and the rapid generation of code. Now, the bottleneck has shifted. The massive volume of AI-generated code is straining traditional software pipelines, creating severe security vulnerabilities, and inflating cloud budgets. The industry is moving away from flat-rate AI tools toward usage-based billing, forcing enterprises to justify the economics of their automation strategies.
 
@@ -116,7 +99,7 @@ The successful public listing of **SpaceX** has created a massive liquidity even
 
 For technology professionals in Singapore and Southeast Asia, the rising retrenchment rate in early 2026 highlights a shifting labor market where general engineering degrees are no longer a guarantee of employment. Instead, the sharp rise in demand for **Forward Deployed Engineers (FDEs)** indicates that the region is prioritizing professionals who can bridge the gap between raw technology and local enterprise integration. As US-China trade barriers rise, Singapore is positioning itself as a critical gateway for regional cloud strategies and sovereign data vaulting, creating a distinct demand for infrastructure architects who can navigate complex, cross-border compliance environments.
 
-
+<!-- exec-summary-end -->
 
 [← Back to Home]({{ "/" | relative_url }})
 

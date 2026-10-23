@@ -9,57 +9,15 @@ tags: [tech]
 
 
 
-<div style="margin: 16px 0 8px 0;">
-  <button onclick="copyShareSummary()" style="padding: 6px 14px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; cursor: pointer; font-size: 0.9em; color: #333; font-weight: 500;">Share</button>
-  <span id="share-confirm" style="display:none; margin-left: 10px; font-size: 0.85em; color: #adb5bd;">Copied to clipboard</span>
-  <div id="share-payload" style="display:none;">I'll search for the latest information on these technology trends to provide you with current, accurate details.Based on the current research and data, here is a 100-word summary with a six-word title:
-
-AI agents now execute code autonomously
-
-Artificial intelligence has shifted from generating text to actively running, testing, and deploying software in live environments. This transformation creates new challenges: code duplication has surged as AI tools accelerate output without awareness of existing systems, forcing teams into massive maintenance backlogs. Meanwhile, efficient Chinese models like DeepSeek have slashed inference costs tenfold, disrupting expensive US-based alternatives. The underlying crisis is physical: data centers consume so much electricity that tech giants are turning to nuclear power to meet demand. For IT professionals, this means job security now depends on managing system complexity and agent permissions rather than writing code.
-
----
-Learn more:
-1. [A Survey of Techniques, Challenges, and Opportunities](https://arxiv.org/html/2508.11126v1)
-2. [Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773)
-3. [A Survey of Design Patterns, Tool Use, and Human-AI Collaboration · GitHub](https://gist.github.com/zhanglpg/46817b06eede1dcc0be0a60e9eb1676d)
-4. [How Autonomous Coding Agents Are Reshaping Software Engineering](https://arxiv.org/html/2507.15003v1)
-5. [en.wikipedia.org](https://en.wikipedia.org)
-6. [DeepSeek's Low Inference Cost Explained: MoE & Strategy](https://intuitionlabs.ai/articles/deepseek-inference-cost-explained)
-7. [How MoE Efficiency Reset AI Cost Expect…](https://deepseek.ai/blog/deepseek-v3-r1-ai-revolution-efficiency)
-8. [Architecture, Inference Efficiency, and What the Grayscale Test Reveals](https://huggingface.co/blog/ResterChed/deepseek-v4-ga-architecture)
-9. [DeepSeek-V4-Flash Sets New Cost Efficiency Standard](https://www.gartner.com/en/insights/gartner-first-takes/deepseek-v4-flash-sets-new-cost-efficiency-standard)
-10. [mckinsey.com](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers)
-11. [The Powerful Duo of Nuclear and Data Centers](https://www.fticonsulting.com/insights/articles/powerful-duo-nuclear-data-centers)
-12. [Powering AI's future: The case for nuclear energy in data centers](https://www.techtarget.com/it-infrastructure/feature/Powering-AIs-future-The-case-for-nuclear-energy-in-data-centers)
-13. [Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions)
-14. [Advantages and Challenges of Nuclear-Powered Data Centers](https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers)
-15. [pewresearch.org](https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/)
-16. [Medium](https://hammansamuel.medium.com/how-ai-assisted-coding-fills-your-codebase-with-clones-188ec2464894?source=rss------ai-5)
-17. [What 49 Vibe-Coded GitHub Projects Revealed About AI Code Duplication](https://hackernoon.com/what-49-vibe-coded-github-projects-revealed-about-ai-code-duplication)
-18. [Code Duplication Detection Tools](https://www.getpanto.ai/blog/code-duplication-detection-tools)
-19. [How to Catch Code Duplication Across 100 Repositories](https://www.qodo.ai/blog/code-duplication/)
-20. [arxiv.org](https://arxiv.org/html/2606.14796)
-
-https://gd-mrng.github.io/political-economy-blog/weekly/briefing/2026/09/19/Tech-Briefing.html</div>
-</div>
-<script>
-function copyShareSummary() {
-  var text = document.getElementById('share-payload').textContent.trim();
-  navigator.clipboard.writeText(text).then(function() {
-    var el = document.getElementById('share-confirm');
-    el.style.display = 'inline';
-    setTimeout(function() { el.style.display = 'none'; }, 1500);
-  });
-}
-</script>
 
 
+
+<!-- exec-summary-start -->
 
 <!-- preview-start -->
+# Executive Summary
 
-
-## EXECUTIVE SUMMARY
+**The Technology Operating Picture**
 
 The global technology landscape is undergoing a structural transition from conversational AI to **autonomous agentic execution**. Software is no longer just generating text or suggesting code snippets; instead, AI agents are now actively writing, compiling, running, and deploying code within live environments. This shift is transforming the daily reality of IT professionals. The primary bottleneck in software development is moving from code generation to **runtime verification** and system maintenance. 
 
@@ -132,6 +90,8 @@ Nvidia is leveraging its dominant market position to encourage enterprises to bu
 ## WHAT THIS MEANS
 
 For IT professionals in Singapore and Southeast Asia, these shifts will manifest as a surge in local infrastructure development, driven by multinational firms establishing regional "China+1" hubs. Databricks’ decision to double its Singapore workforce and the expansion of local data center capacity in Malaysia highlight the region's growing importance as a neutral zone for global data routing. However, this growth will be highly uneven, with Singapore and Malaysia capturing the majority of high-value engineering roles, while neighboring markets remain primarily consumers of outsourced AI services.
+
+<!-- exec-summary-end -->
 
 <br>
 <br>
